@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_bonin",
+  "name": "Claude Bonin",
+  "external_ids": {
+    "wikidata": "Q64736330",
+    "imdb": "nm0094663"
+  },
+  "last_updated": "2026-08-18"
+}

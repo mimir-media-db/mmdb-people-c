@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_gonzalez",
+  "name": "Claude Gonzalez",
+  "external_ids": {
+    "wikidata": "Q27044589",
+    "imdb": "nm1496535"
+  },
+  "last_updated": "2026-08-18"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cassandra_bell",
+  "name": "Cassandra Bell",
+  "external_ids": {
+    "wikidata": "Q1048218",
+    "imdb": "nm1197602"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

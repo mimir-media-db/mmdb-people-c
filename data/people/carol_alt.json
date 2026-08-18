@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_carol_alt",
+  "name": "Carol Alt",
+  "external_ids": {
+    "wikidata": "Q441856",
+    "imdb": "nm0000745"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

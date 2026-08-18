@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_nuridsany",
+  "name": "Claude Nuridsany",
+  "external_ids": {
+    "wikidata": "Q2977901",
+    "imdb": "nm0638175"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945
+}

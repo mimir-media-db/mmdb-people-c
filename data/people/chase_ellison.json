@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chase_ellison",
+  "name": "Chase Ellison",
+  "external_ids": {
+    "wikidata": "Q500990",
+    "imdb": "nm0255175"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1993
+}
