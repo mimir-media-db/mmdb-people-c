@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chuck_workman",
+  "name": "Chuck Workman",
+  "external_ids": {
+    "wikidata": "Q1089208",
+    "imdb": "nm0941457"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_charlie_chan_dagelet",
+  "name": "Charlie Chan Dagelet",
+  "external_ids": {
+    "wikidata": "Q2600405",
+    "imdb": "nm1333592"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1986
+}

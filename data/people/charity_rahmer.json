@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_charity_rahmer",
+  "name": "Charity Rahmer",
+  "external_ids": {
+    "wikidata": "Q5074526",
+    "imdb": "nm0706747"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}

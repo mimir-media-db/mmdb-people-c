@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cherry_lane",
+  "name": "Cherry Lane",
+  "external_ids": {
+    "wikidata": "Q110098424",
+    "imdb": "nm4463063"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1988
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_brie",
+  "name": "Claude Brie",
+  "external_ids": {
+    "wikidata": "Q123184955",
+    "imdb": "nm1496017"
+  },
+  "last_updated": "2026-08-18"
+}

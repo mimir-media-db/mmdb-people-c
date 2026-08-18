@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_carrot_top",
+  "name": "Carrot Top",
+  "external_ids": {
+    "wikidata": "Q559081",
+    "imdb": "nm0005488"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}
