@@ -3876,6 +3876,12 @@
     "path": "data/people/curt_lowens.json"
   },
   {
+    "id": "p_curtis_james_jackson_iii",
+    "name": "50 Cent",
+    "birth_year": 1975,
+    "path": "data/people/p_curtis_james_jackson_iii.json"
+  },
+  {
     "id": "p_cvijeta_mesic",
     "name": "Cvijeta Mesić",
     "birth_year": 1948,
