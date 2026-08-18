@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_carly_schroeder",
+  "name": "Carly Schroeder",
+  "external_ids": {
+    "wikidata": "Q265109",
+    "imdb": "nm0775455"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1990,
+  "death_year": null
+}

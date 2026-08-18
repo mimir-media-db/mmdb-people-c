@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_carol_cleveland",
+  "name": "Carol Cleveland",
+  "external_ids": {
+    "wikidata": "Q238012",
+    "imdb": "nm0166470"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1942,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_carrie_fisher",
+  "name": "Carrie Fisher",
+  "external_ids": {
+    "wikidata": "Q108941",
+    "imdb": "nm0000402"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1956,
+  "death_year": 2016
+}

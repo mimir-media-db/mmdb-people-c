@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_catherine_deneuve",
+  "name": "Catherine Deneuve",
+  "external_ids": {
+    "wikidata": "Q106418",
+    "imdb": "nm0000366"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1943,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_carole_bouquet",
+  "name": "Carole Bouquet",
+  "external_ids": {
+    "wikidata": "Q106607",
+    "imdb": "nm0000962"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1957,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_carmen_chaplin",
+  "name": "Carmen Chaplin",
+  "external_ids": {
+    "wikidata": "Q274599",
+    "imdb": "nm0152231"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1977,
+  "death_year": null
+}
