@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_connie_field",
+  "name": "Connie Field",
+  "external_ids": {
+    "wikidata": "Q19879148",
+    "imdb": "nm0275908"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1947,
+  "death_year": null
+}

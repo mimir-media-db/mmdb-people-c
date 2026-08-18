@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_conleth_hill",
+  "name": "Conleth Hill",
+  "external_ids": {
+    "wikidata": "Q1126128",
+    "imdb": "nm0384152"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1964,
+  "death_year": null
+}

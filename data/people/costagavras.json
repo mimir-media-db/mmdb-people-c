@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_costagavras",
+  "name": "Costa-Gavras",
+  "external_ids": {
+    "wikidata": "Q296698",
+    "imdb": "nm0002020"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1933,
+  "death_year": null
+}

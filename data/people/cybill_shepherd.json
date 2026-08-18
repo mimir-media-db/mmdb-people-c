@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_cybill_shepherd",
+  "name": "Cybill Shepherd",
+  "external_ids": {
+    "wikidata": "Q175142",
+    "imdb": "nm0001732"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1950,
+  "death_year": null
+}

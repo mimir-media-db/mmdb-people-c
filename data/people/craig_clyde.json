@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_craig_clyde",
+  "name": "Craig Clyde",
+  "external_ids": {
+    "wikidata": "Q5180833",
+    "imdb": "nm0167396"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1901,
+  "death_year": null
+}

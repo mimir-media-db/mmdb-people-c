@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_craig_conway",
+  "name": "Craig Conway",
+  "external_ids": {
+    "wikidata": "Q5180845",
+    "imdb": "nm0176660"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1975,
+  "death_year": null
+}
