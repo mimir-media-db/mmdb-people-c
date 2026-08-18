@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_colin_ford",
+  "name": "Colin Ford",
+  "external_ids": {
+    "wikidata": "Q1108456",
+    "imdb": "nm1225406"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1996
+}
