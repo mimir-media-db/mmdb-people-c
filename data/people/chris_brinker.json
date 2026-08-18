@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_brinker",
+  "name": "Chris Brinker",
+  "external_ids": {
+    "wikidata": "Q5105977",
+    "imdb": "nm0109578"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1970,
+  "death_year": 2013
+}

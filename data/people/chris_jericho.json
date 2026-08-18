@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_jericho",
+  "name": "Chris Jericho",
+  "external_ids": {
+    "wikidata": "Q44144",
+    "imdb": "nm0410171"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1970,
+  "death_year": null
+}

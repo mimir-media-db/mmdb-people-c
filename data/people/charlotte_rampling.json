@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_charlotte_rampling",
+  "name": "Charlotte Rampling",
+  "external_ids": {
+    "wikidata": "Q234679",
+    "imdb": "nm0001648"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1946,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_pratt",
+  "name": "Chris Pratt",
+  "external_ids": {
+    "wikidata": "Q503706",
+    "imdb": "nm0695435"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1979,
+  "death_year": null
+}

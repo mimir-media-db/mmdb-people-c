@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_charles_dance",
+  "name": "Charles Dance",
+  "external_ids": {
+    "wikidata": "Q309690",
+    "imdb": "nm0001097"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1946,
+  "death_year": null
+}
