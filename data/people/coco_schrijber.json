@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_coco_schrijber",
+  "name": "Coco Schrijber",
+  "external_ids": {
+    "wikidata": "Q2609225",
+    "imdb": "nm0775397"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

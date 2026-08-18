@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cesar_chiffre",
+  "name": "César Chiffre",
+  "external_ids": {
+    "wikidata": "Q24705098",
+    "imdb": "nm1141034"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1991
+}

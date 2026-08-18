@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_potter",
+  "name": "Chris Potter",
+  "external_ids": {
+    "wikidata": "Q711681",
+    "imdb": "nm0693243"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

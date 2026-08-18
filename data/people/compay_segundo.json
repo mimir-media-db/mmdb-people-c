@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_compay_segundo",
+  "name": "Compay Segundo",
+  "external_ids": {
+    "wikidata": "Q316102",
+    "imdb": "nm0782158"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1907,
+  "death_year": 2003
+}
