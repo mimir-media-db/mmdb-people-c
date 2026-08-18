@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_weitz",
+  "name": "Chris Weitz",
+  "external_ids": {
+    "wikidata": "Q238638",
+    "imdb": "nm0919363"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

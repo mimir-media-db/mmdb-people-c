@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_claudia_black",
+  "name": "Claudia Black",
+  "external_ids": {
+    "wikidata": "Q229225",
+    "imdb": "nm0085227"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

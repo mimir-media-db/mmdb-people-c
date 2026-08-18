@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_faraldo",
+  "name": "Claude Faraldo",
+  "external_ids": {
+    "wikidata": "Q521870",
+    "imdb": "nm0267064"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1936,
+  "death_year": 2008
+}

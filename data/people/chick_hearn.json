@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_chick_hearn",
+  "name": "Chick Hearn",
+  "external_ids": {
+    "wikidata": "Q321638",
+    "imdb": "nm0372481"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1916,
+  "death_year": 2002
+}

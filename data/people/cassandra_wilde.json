@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cassandra_wilde",
+  "name": "Cassandra Wilde",
+  "external_ids": {
+    "wikidata": "Q15390684",
+    "imdb": "nm0928418"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cathy_moriarty",
+  "name": "Cathy Moriarty",
+  "external_ids": {
+    "wikidata": "Q242732",
+    "imdb": "nm0001550"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

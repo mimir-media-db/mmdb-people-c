@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_conan_obrien",
+  "name": "Conan O'Brien",
+  "external_ids": {
+    "wikidata": "Q486740",
+    "imdb": "nm0005277"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

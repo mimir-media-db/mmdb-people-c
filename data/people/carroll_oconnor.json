@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_carroll_oconnor",
+  "name": "Carroll O'Connor",
+  "external_ids": {
+    "wikidata": "Q555487",
+    "imdb": "nm0005279"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1924,
+  "death_year": 2001
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_clara_law",
+  "name": "Clara Law",
+  "external_ids": {
+    "wikidata": "Q435577",
+    "imdb": "nm0492309"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

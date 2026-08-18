@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_jade",
+  "name": "Claude Jade",
+  "external_ids": {
+    "wikidata": "Q183471",
+    "imdb": "nm0415283"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948,
+  "death_year": 2006
+}

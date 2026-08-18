@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_rich",
+  "name": "Claude Rich",
+  "external_ids": {
+    "wikidata": "Q1097113",
+    "imdb": "nm0723623"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1929,
+  "death_year": 2017
+}

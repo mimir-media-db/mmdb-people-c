@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_carl_reiner",
+  "name": "Carl Reiner",
+  "external_ids": {
+    "wikidata": "Q287793",
+    "imdb": "nm0005348"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1922,
+  "death_year": 2020
+}

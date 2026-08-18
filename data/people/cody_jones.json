@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cody_jones",
+  "name": "Cody Jones",
+  "external_ids": {
+    "wikidata": "Q2981717",
+    "imdb": "nm0427796"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1984
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_charli_baltimore",
+  "name": "Charli Baltimore",
+  "external_ids": {
+    "wikidata": "Q162053",
+    "imdb": "nm0051224"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}

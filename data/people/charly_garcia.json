@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_charly_garcia",
+  "name": "Charly García",
+  "external_ids": {
+    "wikidata": "Q467940",
+    "imdb": "nm0306023"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}
