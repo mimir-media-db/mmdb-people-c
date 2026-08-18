@@ -1,2 +1,3 @@
-# mmdb-people-c
-MMDB People — C
+# MMDB People — C
+
+People whose slug starts with 'c'.
