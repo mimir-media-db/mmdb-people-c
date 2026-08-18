@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_charlotte_salt",
+  "name": "Charlotte Salt",
+  "external_ids": {
+    "wikidata": "Q275434",
+    "imdb": "nm1083395"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1985
+}

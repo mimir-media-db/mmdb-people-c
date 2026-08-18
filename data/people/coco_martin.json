@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_coco_martin",
+  "name": "Coco Martin",
+  "external_ids": {
+    "wikidata": "Q5139743",
+    "imdb": "nm2029519"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}

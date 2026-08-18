@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_michaud",
+  "name": "Claude Michaud",
+  "external_ids": {
+    "wikidata": "Q2977823",
+    "imdb": "nm0584714"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1938,
+  "death_year": 2016
+}

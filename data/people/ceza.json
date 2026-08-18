@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ceza",
+  "name": "Ceza",
+  "external_ids": {
+    "wikidata": "Q282782",
+    "imdb": "nm1853238"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}

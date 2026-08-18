@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_calbo",
+  "name": "Calbo",
+  "external_ids": {
+    "wikidata": "Q28421664",
+    "imdb": "nm1835654"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972,
+  "death_year": 2026
+}
