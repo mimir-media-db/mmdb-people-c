@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_charlie_ray",
+  "name": "Charlie Ray",
+  "external_ids": {
+    "wikidata": "Q265584",
+    "imdb": "nm1659579"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1992
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_gagnon",
+  "name": "Claude Gagnon",
+  "external_ids": {
+    "wikidata": "Q2977437",
+    "imdb": "nm0300965"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}
