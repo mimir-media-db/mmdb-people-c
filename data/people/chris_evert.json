@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_evert",
+  "name": "Chris Evert",
+  "external_ids": {
+    "wikidata": "Q14286",
+    "imdb": "nm0263708"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}

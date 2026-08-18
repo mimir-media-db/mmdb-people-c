@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_martin",
+  "name": "Chris Martin",
+  "external_ids": {
+    "wikidata": "Q712860",
+    "imdb": "nm1112874"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}
