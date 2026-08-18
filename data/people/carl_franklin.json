@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_carl_franklin",
+  "name": "Carl Franklin",
+  "external_ids": {
+    "wikidata": "Q643246",
+    "imdb": "nm0002083"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_fournier",
+  "name": "Claude Fournier",
+  "external_ids": {
+    "wikidata": "Q2977391",
+    "imdb": "nm0288476"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1931,
+  "death_year": 2023
+}

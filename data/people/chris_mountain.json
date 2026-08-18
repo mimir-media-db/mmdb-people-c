@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_mountain",
+  "name": "Chris Mountain",
+  "external_ids": {
+    "wikidata": "Q91629729",
+    "imdb": "nm1134666"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

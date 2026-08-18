@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_clint_boon",
+  "name": "Clint Boon",
+  "external_ids": {
+    "wikidata": "Q5133927",
+    "imdb": "nm1175072"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_charles_atlas",
+  "name": "Charles Atlas",
+  "external_ids": {
+    "wikidata": "Q5075231",
+    "imdb": "nm1163149"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}
