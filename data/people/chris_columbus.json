@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_columbus",
+  "name": "Chris Columbus",
+  "external_ids": {
+    "wikidata": "Q75079",
+    "imdb": "nm0001060"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

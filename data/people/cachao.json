@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_cachao",
+  "name": "Cachao",
+  "external_ids": {
+    "wikidata": "Q562148",
+    "imdb": "nm0127996"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1918,
+  "death_year": 2008
+}

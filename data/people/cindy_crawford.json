@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cindy_crawford",
+  "name": "Cindy Crawford",
+  "external_ids": {
+    "wikidata": "Q199801",
+    "imdb": "nm0000340"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1966
+}

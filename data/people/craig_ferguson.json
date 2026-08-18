@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_craig_ferguson",
+  "name": "Craig Ferguson",
+  "external_ids": {
+    "wikidata": "Q72867",
+    "imdb": "nm0272401"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}
