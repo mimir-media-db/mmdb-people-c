@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_veillet",
+  "name": "Claude Veillet",
+  "external_ids": {
+    "wikidata": "Q117600505",
+    "imdb": "nm0892048"
+  },
+  "last_updated": "2026-08-15",
+  "death_year": null
+}

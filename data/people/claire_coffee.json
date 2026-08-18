@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_claire_coffee",
+  "name": "Claire Coffee",
+  "external_ids": {
+    "wikidata": "Q460843",
+    "imdb": "nm1309643"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1980,
+  "death_year": null
+}

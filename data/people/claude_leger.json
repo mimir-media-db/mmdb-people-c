@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_leger",
+  "name": "Claude Léger",
+  "external_ids": {
+    "wikidata": "Q115255718",
+    "imdb": "nm0529563"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1945,
+  "death_year": 2021
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_aufaure",
+  "name": "Claude Aufaure",
+  "external_ids": {
+    "wikidata": "Q2976918",
+    "imdb": "nm0041747"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1942,
+  "death_year": null
+}

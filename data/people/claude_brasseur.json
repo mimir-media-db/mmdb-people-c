@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_brasseur",
+  "name": "Claude Brasseur",
+  "external_ids": {
+    "wikidata": "Q106544",
+    "imdb": "nm0105475"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1936,
+  "death_year": 2020
+}

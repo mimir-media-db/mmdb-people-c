@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_chuck_cooper",
+  "name": "Chuck Cooper",
+  "external_ids": {
+    "wikidata": "Q598978",
+    "imdb": "nm0177946"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1954,
+  "death_year": null
+}

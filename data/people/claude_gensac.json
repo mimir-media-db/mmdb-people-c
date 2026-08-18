@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_gensac",
+  "name": "Claude Gensac",
+  "external_ids": {
+    "wikidata": "Q280445",
+    "imdb": "nm0312985"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1927,
+  "death_year": 2016
+}

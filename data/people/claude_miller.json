@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_miller",
+  "name": "Claude Miller",
+  "external_ids": {
+    "wikidata": "Q453371",
+    "imdb": "nm0002218"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1942,
+  "death_year": 2012
+}

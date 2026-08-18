@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_berri",
+  "name": "Claude Berri",
+  "external_ids": {
+    "wikidata": "Q298905",
+    "imdb": "nm0001945"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1934,
+  "death_year": 2009
+}

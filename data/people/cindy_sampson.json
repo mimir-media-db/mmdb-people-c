@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_cindy_sampson",
+  "name": "Cindy Sampson",
+  "external_ids": {
+    "wikidata": "Q2440561",
+    "imdb": "nm1120797"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1978,
+  "death_year": null
+}

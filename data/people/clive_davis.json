@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_clive_davis",
+  "name": "Clive Davis",
+  "external_ids": {
+    "wikidata": "Q1101938",
+    "imdb": "nm0004860"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1932,
+  "death_year": 2026
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_clive_barker",
+  "name": "Clive Barker",
+  "external_ids": {
+    "wikidata": "Q298761",
+    "imdb": "nm0000850"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1952,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_clive_owen",
+  "name": "Clive Owen",
+  "external_ids": {
+    "wikidata": "Q183178",
+    "imdb": "nm0654110"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1964,
+  "death_year": null
+}
