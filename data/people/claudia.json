@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_claudia",
+  "name": "Claudia",
+  "external_ids": {
+    "wikidata": "Q138648338",
+    "imdb": "nm1546607"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1980
+}

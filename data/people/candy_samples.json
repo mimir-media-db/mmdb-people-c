@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_candy_samples",
+  "name": "Candy Samples",
+  "external_ids": {
+    "wikidata": "Q3655231",
+    "imdb": "nm0760121"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1928,
+  "death_year": 2019
+}

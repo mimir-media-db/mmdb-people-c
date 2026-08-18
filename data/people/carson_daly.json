@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_carson_daly",
+  "name": "Carson Daly",
+  "external_ids": {
+    "wikidata": "Q2739748",
+    "imdb": "nm0004856"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973
+}

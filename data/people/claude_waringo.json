@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_waringo",
+  "name": "Claude Waringo",
+  "external_ids": {
+    "wikidata": "Q110983604",
+    "imdb": "nm0007236"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

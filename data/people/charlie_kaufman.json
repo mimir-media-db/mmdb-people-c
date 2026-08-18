@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_charlie_kaufman",
+  "name": "Charlie Kaufman",
+  "external_ids": {
+    "wikidata": "Q312751",
+    "imdb": "nm0442109"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}
