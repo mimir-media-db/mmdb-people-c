@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_caroline_john",
+  "name": "Caroline John",
+  "external_ids": {
+    "wikidata": "Q440678",
+    "imdb": "nm0424142"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1940,
+  "death_year": 2012
+}

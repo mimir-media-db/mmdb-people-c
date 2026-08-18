@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_regy",
+  "name": "Claude Régy",
+  "external_ids": {
+    "wikidata": "Q2042590",
+    "imdb": "nm1331755"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1923,
+  "death_year": 2019
+}

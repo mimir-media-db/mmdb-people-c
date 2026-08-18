@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cal_robertson",
+  "name": "Cal Robertson",
+  "external_ids": {
+    "wikidata": "Q5018209",
+    "imdb": "nm1399048"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1986
+}

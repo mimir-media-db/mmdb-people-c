@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_champa",
+  "name": "Champa",
+  "external_ids": {
+    "wikidata": "Q13057831",
+    "imdb": "nm0015285"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}

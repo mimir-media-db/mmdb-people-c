@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_carl_byker",
+  "name": "Carl Byker",
+  "external_ids": {
+    "wikidata": "Q5039956",
+    "imdb": "nm0125894"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1900
+}
