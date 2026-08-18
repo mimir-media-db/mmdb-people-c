@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_casper_van_dien",
+  "name": "Casper Van Dien",
+  "external_ids": {
+    "wikidata": "Q313804",
+    "imdb": "nm0000680"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1968
+}

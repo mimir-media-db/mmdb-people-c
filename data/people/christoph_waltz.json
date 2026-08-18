@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_christoph_waltz",
+  "name": "Christoph Waltz",
+  "external_ids": {
+    "wikidata": "Q76819",
+    "imdb": "nm0910607"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

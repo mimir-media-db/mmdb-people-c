@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_candy_lo",
+  "name": "Candy Lo",
+  "external_ids": {
+    "wikidata": "Q837539",
+    "imdb": "nm0516284"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}
