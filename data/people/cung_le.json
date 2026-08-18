@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_cung_le",
+  "name": "Cung Le",
+  "external_ids": {
+    "wikidata": "Q952839",
+    "imdb": "nm1087183"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1972,
+  "death_year": null
+}

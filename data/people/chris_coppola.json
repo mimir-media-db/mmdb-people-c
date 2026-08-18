@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_coppola",
+  "name": "Chris Coppola",
+  "external_ids": {
+    "wikidata": "Q5106259",
+    "imdb": "nm0178875"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1968,
+  "death_year": null
+}

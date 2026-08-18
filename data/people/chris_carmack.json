@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_carmack",
+  "name": "Chris Carmack",
+  "external_ids": {
+    "wikidata": "Q539654",
+    "imdb": "nm1377001"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1980,
+  "death_year": null
+}

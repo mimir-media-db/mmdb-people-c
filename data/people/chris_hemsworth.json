@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_hemsworth",
+  "name": "Chris Hemsworth",
+  "external_ids": {
+    "wikidata": "Q54314",
+    "imdb": "nm1165110"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1983,
+  "death_year": null
+}

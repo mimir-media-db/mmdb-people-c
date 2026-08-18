@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_cedric_the_entertainer",
+  "name": "Cedric the Entertainer",
+  "external_ids": {
+    "wikidata": "Q492327",
+    "imdb": "nm0147825"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1964,
+  "death_year": null
+}

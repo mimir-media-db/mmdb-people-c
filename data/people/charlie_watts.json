@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_charlie_watts",
+  "name": "Charlie Watts",
+  "external_ids": {
+    "wikidata": "Q216051",
+    "imdb": "nm0915115"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1941,
+  "death_year": 2021
+}

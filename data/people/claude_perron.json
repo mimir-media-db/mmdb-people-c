@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_perron",
+  "name": "Claude Perron",
+  "external_ids": {
+    "wikidata": "Q460423",
+    "imdb": "nm0674816"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1966,
+  "death_year": null
+}

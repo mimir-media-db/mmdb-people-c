@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_cynthia_nixon",
+  "name": "Cynthia Nixon",
+  "external_ids": {
+    "wikidata": "Q228725",
+    "imdb": "nm0633223"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1966,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_semal",
+  "name": "Claude Semal",
+  "external_ids": {
+    "wikidata": "Q2978146",
+    "imdb": "nm0783706"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1954,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_smith",
+  "name": "Chris Smith",
+  "external_ids": {
+    "wikidata": "Q5108097",
+    "imdb": "nm0807687"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1970,
+  "death_year": null
+}

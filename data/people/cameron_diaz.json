@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_cameron_diaz",
+  "name": "Cameron Diaz",
+  "external_ids": {
+    "wikidata": "Q44380",
+    "imdb": "nm0000139"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1972,
+  "death_year": null
+}

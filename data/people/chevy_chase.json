@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_chevy_chase",
+  "name": "Chevy Chase",
+  "external_ids": {
+    "wikidata": "Q310926",
+    "imdb": "nm0000331"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1943,
+  "death_year": null
+}

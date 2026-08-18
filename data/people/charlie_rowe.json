@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_charlie_rowe",
+  "name": "Charlie Rowe",
+  "external_ids": {
+    "wikidata": "Q901193",
+    "imdb": "nm2185462"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1996,
+  "death_year": null
+}

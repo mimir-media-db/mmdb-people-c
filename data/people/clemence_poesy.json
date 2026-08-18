@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_clemence_poesy",
+  "name": "Clémence Poésy",
+  "external_ids": {
+    "wikidata": "Q232868",
+    "imdb": "nm0993242"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1982,
+  "death_year": null
+}

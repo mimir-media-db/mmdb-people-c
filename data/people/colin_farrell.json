@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_colin_farrell",
+  "name": "Colin Farrell",
+  "external_ids": {
+    "wikidata": "Q172035",
+    "imdb": "nm0268199"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1976,
+  "death_year": null
+}

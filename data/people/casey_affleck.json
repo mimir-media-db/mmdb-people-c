@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_casey_affleck",
+  "name": "Casey Affleck",
+  "external_ids": {
+    "wikidata": "Q270730",
+    "imdb": "nm0000729"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1975,
+  "death_year": null
+}

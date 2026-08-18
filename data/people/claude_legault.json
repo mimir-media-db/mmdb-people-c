@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_legault",
+  "name": "Claude Legault",
+  "external_ids": {
+    "wikidata": "Q2977696",
+    "imdb": "nm0499218"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1963,
+  "death_year": null
+}

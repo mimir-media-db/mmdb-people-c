@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_camilla_belle",
+  "name": "Camilla Belle",
+  "external_ids": {
+    "wikidata": "Q387072",
+    "imdb": "nm0004741"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1986,
+  "death_year": null
+}

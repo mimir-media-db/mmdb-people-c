@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_charlie_dupont",
+  "name": "Charlie Dupont",
+  "external_ids": {
+    "wikidata": "Q693534",
+    "imdb": "nm1026008"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1971,
+  "death_year": null
+}

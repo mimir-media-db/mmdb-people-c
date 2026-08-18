@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_cal_johnson",
+  "name": "Cal Johnson",
+  "external_ids": {
+    "wikidata": "Q1027698",
+    "imdb": "nm0002756"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1958,
+  "death_year": null
+}

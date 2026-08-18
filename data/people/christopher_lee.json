@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_christopher_lee",
+  "name": "Christopher Lee",
+  "external_ids": {
+    "wikidata": "Q180338",
+    "imdb": "nm0000489"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1922,
+  "death_year": 2015
+}

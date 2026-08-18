@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_candy_clark",
+  "name": "Candy Clark",
+  "external_ids": {
+    "wikidata": "Q40067",
+    "imdb": "nm0163748"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1947,
+  "death_year": null
+}

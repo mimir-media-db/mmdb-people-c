@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_chancellor_miller",
+  "name": "Chancellor Miller",
+  "external_ids": {
+    "wikidata": "Q301827",
+    "imdb": "nm1544465"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1993,
+  "death_year": null
+}

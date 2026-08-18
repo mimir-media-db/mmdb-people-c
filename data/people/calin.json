@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_calin",
+  "name": "Calin",
+  "external_ids": {
+    "wikidata": "Q113000776",
+    "imdb": "nm8929853"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1997,
+  "death_year": null
+}
