@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_coca_guazzini",
+  "name": "Coca Guazzini",
+  "external_ids": {
+    "wikidata": "Q1189358",
+    "imdb": "nm0345497"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1953
+}

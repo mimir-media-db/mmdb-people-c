@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_brown",
+  "name": "Chris Brown",
+  "external_ids": {
+    "wikidata": "Q155700",
+    "imdb": "nm2093097"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1989
+}
