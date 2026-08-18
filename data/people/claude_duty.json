@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_duty",
+  "name": "Claude Duty",
+  "external_ids": {
+    "wikidata": "Q2977345",
+    "imdb": "nm0244967"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946
+}

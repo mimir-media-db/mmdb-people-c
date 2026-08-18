@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chuck_bowman",
+  "name": "Chuck Bowman",
+  "external_ids": {
+    "wikidata": "Q5115368",
+    "imdb": "nm0101304"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1937
+}

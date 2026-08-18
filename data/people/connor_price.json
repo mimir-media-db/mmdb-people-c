@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_connor_price",
+  "name": "Connor Price",
+  "external_ids": {
+    "wikidata": "Q3687084",
+    "imdb": "nm1161069"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1994
+}

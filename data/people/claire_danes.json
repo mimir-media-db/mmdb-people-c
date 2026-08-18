@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_claire_danes",
+  "name": "Claire Danes",
+  "external_ids": {
+    "wikidata": "Q867813",
+    "imdb": "nm0000132"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}
