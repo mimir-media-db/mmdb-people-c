@@ -11648,6 +11648,12 @@
     "path": "data/people/p_christopher_marshall.json"
   },
   {
+    "id": "p_christopher_masterson",
+    "name": "Christopher Masterson",
+    "birth_year": 1980,
+    "path": "data/people/p_christopher_masterson.json"
+  },
+  {
     "id": "p_christopher_mastersons",
     "name": "Christopher Mastersons",
     "birth_year": 1980,
