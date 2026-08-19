@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_custodia_gallego",
+  "name": "Custódia Gallego",
+  "external_ids": {
+    "wikidata": "Q10262519",
+    "imdb": "nm0301962"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1959
+}

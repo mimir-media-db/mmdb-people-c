@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_cat_lemieux",
+  "name": "Cat Lemieux",
+  "external_ids": {
+    "wikidata": "Q111450177",
+    "imdb": "nm0501289"
+  },
+  "last_updated": "2026-08-19"
+}

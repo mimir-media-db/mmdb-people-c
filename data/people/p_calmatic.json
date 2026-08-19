@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_calmatic",
+  "name": "Calmatic",
+  "external_ids": {
+    "wikidata": "Q106337645",
+    "imdb": "nm9118043"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

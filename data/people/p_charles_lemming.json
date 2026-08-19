@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_charles_lemming",
+  "name": "Charles Lemming",
+  "external_ids": {
+    "wikidata": "Q1065321",
+    "imdb": "nm2487674"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}
