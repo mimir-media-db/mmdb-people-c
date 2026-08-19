@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_confortes",
+  "name": "Claude Confortès",
+  "external_ids": {
+    "wikidata": "Q2977209",
+    "imdb": "nm0174590"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1928,
+  "death_year": 2016
+}
