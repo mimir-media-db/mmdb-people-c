@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_charles_miller",
+  "name": "Charles Miller",
+  "external_ids": {
+    "wikidata": "Q3666566",
+    "imdb": "nm0588056"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1856,
+  "death_year": 1936
+}
