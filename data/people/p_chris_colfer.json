@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_colfer",
+  "name": "Chris Colfer",
+  "external_ids": {
+    "wikidata": "Q211566",
+    "imdb": "nm3182094"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1990
+}

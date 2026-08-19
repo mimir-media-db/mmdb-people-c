@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_bosh",
+  "name": "Chris Bosh",
+  "external_ids": {
+    "wikidata": "Q201386",
+    "imdb": "nm2595625"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}
