@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_candace_smith",
+  "name": "Candace Smith",
+  "external_ids": {
+    "wikidata": "Q5031576",
+    "imdb": "nm1335769"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1977
+}

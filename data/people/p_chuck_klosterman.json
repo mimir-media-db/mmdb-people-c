@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chuck_klosterman",
+  "name": "Chuck Klosterman",
+  "external_ids": {
+    "wikidata": "Q367336",
+    "imdb": "nm1796345"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}
