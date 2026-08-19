@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cariba_heine",
+  "name": "Cariba Heine",
+  "external_ids": {
+    "wikidata": "Q465204",
+    "imdb": "nm2100998"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1988
+}

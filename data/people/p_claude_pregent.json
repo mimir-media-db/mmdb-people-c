@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_pregent",
+  "name": "Claude Prégent",
+  "external_ids": {
+    "wikidata": "Q2978005",
+    "imdb": "nm0699518"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952
+}

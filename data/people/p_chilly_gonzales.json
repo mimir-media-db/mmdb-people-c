@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chilly_gonzales",
+  "name": "Chilly Gonzales",
+  "external_ids": {
+    "wikidata": "Q1532874",
+    "imdb": "nm2588960"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}

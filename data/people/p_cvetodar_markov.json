@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_cvetodar_markov",
+  "name": "Cvetodar Markov",
+  "external_ids": {
+    "wikidata": "Q57628360",
+    "imdb": "nm3460475"
+  },
+  "last_updated": "2026-08-19"
+}
