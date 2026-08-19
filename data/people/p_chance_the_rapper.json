@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chance_the_rapper",
+  "name": "Chance the Rapper",
+  "external_ids": {
+    "wikidata": "Q12470060",
+    "imdb": "nm5692878"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1993
+}

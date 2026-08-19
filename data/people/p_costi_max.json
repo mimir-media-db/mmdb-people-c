@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_costi_max",
+  "name": "Costi Max",
+  "external_ids": {
+    "wikidata": "Q92322593",
+    "imdb": "nm11238234"
+  },
+  "last_updated": "2026-08-19"
+}
