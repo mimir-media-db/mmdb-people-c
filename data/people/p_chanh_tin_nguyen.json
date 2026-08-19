@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_chanh_tin_nguyen",
+  "name": "Chanh Tin Nguyen",
+  "external_ids": {
+    "wikidata": "Q10799001",
+    "imdb": "nm2203426"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952,
+  "death_year": 2020
+}

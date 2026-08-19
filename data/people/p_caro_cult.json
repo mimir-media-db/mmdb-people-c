@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_caro_cult",
+  "name": "Caro Cult",
+  "external_ids": {
+    "wikidata": "Q50384541",
+    "imdb": "nm6682057"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}
