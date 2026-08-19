@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_charlie_anson",
+  "name": "Charlie Anson",
+  "external_ids": {
+    "wikidata": "Q111625613",
+    "imdb": "nm2758578"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}
