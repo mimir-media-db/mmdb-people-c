@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_christian_bach",
+  "name": "Christian Bach",
+  "external_ids": {
+    "wikidata": "Q468470",
+    "imdb": "nm0045298"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1959,
+  "death_year": 2019
+}

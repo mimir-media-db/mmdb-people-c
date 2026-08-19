@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cat_tomeny",
+  "name": "Cat Tomeny",
+  "external_ids": {
+    "wikidata": "Q63413418",
+    "imdb": "nm2929764"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
