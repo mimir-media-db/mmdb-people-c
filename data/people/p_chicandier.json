@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chicandier",
+  "name": "Chicandier",
+  "external_ids": {
+    "wikidata": "Q99398127",
+    "imdb": "nm10412497"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

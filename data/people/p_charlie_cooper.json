@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_charlie_cooper",
+  "name": "Charlie Cooper",
+  "external_ids": {
+    "wikidata": "Q54827583",
+    "imdb": "nm7350296"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1989
+}
