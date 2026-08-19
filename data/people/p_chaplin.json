@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_chaplin",
+  "name": "Chaplin",
+  "external_ids": {
+    "wikidata": "Q117859119",
+    "imdb": "nm4572561"
+  },
+  "last_updated": "2026-08-19"
+}

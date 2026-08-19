@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_carmine_gallone",
+  "name": "Carmine Gallone",
+  "external_ids": {
+    "wikidata": "Q53020",
+    "imdb": "nm0303120"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1885,
+  "death_year": 1973
+}

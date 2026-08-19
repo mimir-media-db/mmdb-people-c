@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_new",
+  "name": "Chris New",
+  "external_ids": {
+    "wikidata": "Q5107578",
+    "imdb": "nm2773325"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}

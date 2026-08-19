@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_caitlyn_jenner",
+  "name": "Caitlyn Jenner",
+  "external_ids": {
+    "wikidata": "Q365144",
+    "imdb": "nm0421063"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949
+}
