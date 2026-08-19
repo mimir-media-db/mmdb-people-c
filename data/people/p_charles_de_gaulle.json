@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_charles_de_gaulle",
+  "name": "Charles de Gaulle",
+  "external_ids": {
+    "wikidata": "Q2042",
+    "imdb": "nm0208540"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1890,
+  "death_year": 1970
+}

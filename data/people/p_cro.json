@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cro",
+  "name": "Cro",
+  "external_ids": {
+    "wikidata": "Q20729",
+    "imdb": "nm5309278"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1990
+}

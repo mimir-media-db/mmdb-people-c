@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_crowd_lu",
+  "name": "Crowd Lu",
+  "external_ids": {
+    "wikidata": "Q702855",
+    "imdb": "nm6444520"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}
