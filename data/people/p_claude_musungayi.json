@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_musungayi",
+  "name": "Claude Musungayi",
+  "external_ids": {
+    "wikidata": "Q114839800",
+    "imdb": "nm2442143"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}
