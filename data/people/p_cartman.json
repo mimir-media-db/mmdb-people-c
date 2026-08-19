@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cartman",
+  "name": "Cartman",
+  "external_ids": {
+    "wikidata": "Q2940609",
+    "imdb": "nm1750710"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

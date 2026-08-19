@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_johnson",
+  "name": "Chris Johnson",
+  "external_ids": {
+    "wikidata": "Q22296293",
+    "imdb": "nm3068129"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983,
+  "death_year": 2021
+}

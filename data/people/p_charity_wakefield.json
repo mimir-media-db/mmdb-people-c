@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_charity_wakefield",
+  "name": "Charity Wakefield",
+  "external_ids": {
+    "wikidata": "Q2361731",
+    "imdb": "nm1564421"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}
