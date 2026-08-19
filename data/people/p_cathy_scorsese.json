@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cathy_scorsese",
+  "name": "Cathy Scorsese",
+  "external_ids": {
+    "wikidata": "Q65029634",
+    "imdb": "nm0778735"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}
