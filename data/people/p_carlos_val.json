@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_carlos_val",
+  "name": "Carlos Val",
+  "external_ids": {
+    "wikidata": "Q23394645",
+    "imdb": "nm2792363"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}

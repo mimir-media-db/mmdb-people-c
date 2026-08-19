@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chico_garcia",
+  "name": "Chico García",
+  "external_ids": {
+    "wikidata": "Q28287065",
+    "imdb": "nm2106993"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}
