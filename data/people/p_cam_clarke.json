@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cam_clarke",
+  "name": "Cam Clarke",
+  "external_ids": {
+    "wikidata": "Q876726",
+    "imdb": "nm0164682"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1957
+}

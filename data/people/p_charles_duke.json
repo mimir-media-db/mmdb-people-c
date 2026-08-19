@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_charles_duke",
+  "name": "Charles Duke",
+  "external_ids": {
+    "wikidata": "Q112284",
+    "imdb": "nm0241169"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1935
+}

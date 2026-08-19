@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_sarraute",
+  "name": "Claude Sarraute",
+  "external_ids": {
+    "wikidata": "Q2978126",
+    "imdb": "nm1167450"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1927,
+  "death_year": 2023
+}
