@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_crankgameplays",
+  "name": "CrankGameplays",
+  "external_ids": {
+    "wikidata": "Q61059653",
+    "imdb": "nm9039606"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1996
+}
