@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_charles_busch",
+  "name": "Charles Busch",
+  "external_ids": {
+    "wikidata": "Q1063851",
+    "imdb": "nm0123958"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1954
+}

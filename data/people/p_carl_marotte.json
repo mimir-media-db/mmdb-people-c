@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_carl_marotte",
+  "name": "Carl Marotte",
+  "external_ids": {
+    "wikidata": "Q2938960",
+    "imdb": "nm0549603"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1959
+}
