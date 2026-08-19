@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_carly_rees",
+  "name": "Carly Rees",
+  "external_ids": {
+    "wikidata": "Q113005215",
+    "imdb": "nm5415372"
+  },
+  "last_updated": "2026-08-19"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_claire_billet",
+  "name": "Claire Billet",
+  "external_ids": {
+    "wikidata": "Q131905771",
+    "imdb": "nm10577154"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}
