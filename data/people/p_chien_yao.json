@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chien_yao",
+  "name": "Chien Yao",
+  "external_ids": {
+    "wikidata": "Q10943418",
+    "imdb": "nm5166848"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961
+}

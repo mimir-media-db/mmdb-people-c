@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_quick",
+  "name": "Chris Quick",
+  "external_ids": {
+    "wikidata": "Q18619457",
+    "imdb": "nm4109795"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1988
+}
