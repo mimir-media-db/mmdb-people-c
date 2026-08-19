@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_winter",
+  "name": "Claude Winter",
+  "external_ids": {
+    "wikidata": "Q2978278",
+    "imdb": "nm0935695"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1931,
+  "death_year": 2011
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cat_smits",
+  "name": "Cat Smits",
+  "external_ids": {
+    "wikidata": "Q47018115",
+    "imdb": "nm4630648"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}

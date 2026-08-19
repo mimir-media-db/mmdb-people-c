@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_candy_alexa",
+  "name": "Candy Alexa",
+  "external_ids": {
+    "wikidata": "Q104853174",
+    "imdb": "nm3398747"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}
