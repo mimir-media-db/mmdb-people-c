@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_charlotte_most",
+  "name": "Charlotte Most",
+  "external_ids": {
+    "wikidata": "Q130369933",
+    "imdb": "nm2118661"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1963
+}

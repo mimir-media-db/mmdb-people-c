@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cm_punk",
+  "name": "CM Punk",
+  "external_ids": {
+    "wikidata": "Q215447",
+    "imdb": "nm1516006"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

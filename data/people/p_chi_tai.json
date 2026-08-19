@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_chi_tai",
+  "name": "Chí Tài",
+  "external_ids": {
+    "wikidata": "Q10748315",
+    "imdb": "nm2432715"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1958,
+  "death_year": 2020
+}
