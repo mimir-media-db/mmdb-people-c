@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_zidi_jr",
+  "name": "Claude Zidi Jr.",
+  "external_ids": {
+    "wikidata": "Q116788455",
+    "imdb": "nm2273595"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}

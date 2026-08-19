@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_codi_vore",
+  "name": "Codi Vore",
+  "external_ids": {
+    "wikidata": "Q56473892",
+    "imdb": "nm9870907"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1995
+}

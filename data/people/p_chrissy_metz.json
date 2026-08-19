@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chrissy_metz",
+  "name": "Chrissy Metz",
+  "external_ids": {
+    "wikidata": "Q24265481",
+    "imdb": "nm1978680"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}

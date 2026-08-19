@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cassandro",
+  "name": "Cassandro",
+  "external_ids": {
+    "wikidata": "Q5049256",
+    "imdb": "nm3002574"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}
