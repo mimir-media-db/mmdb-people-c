@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_charles_boyer",
+  "name": "Charles Boyer",
+  "external_ids": {
+    "wikidata": "Q105987",
+    "imdb": "nm0000964"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1899,
+  "death_year": 1978
+}
