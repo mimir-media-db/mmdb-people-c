@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_matthews",
+  "name": "Chris Matthews",
+  "external_ids": {
+    "wikidata": "Q948687",
+    "imdb": "nm1236777"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1945
+}

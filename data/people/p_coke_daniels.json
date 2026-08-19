@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_coke_daniels",
+  "name": "Coke Daniels",
+  "external_ids": {
+    "wikidata": "Q113687945",
+    "imdb": "nm1248013"
+  },
+  "last_updated": "2026-08-19"
+}

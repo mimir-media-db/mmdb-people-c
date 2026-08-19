@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_demers",
+  "name": "Claude Demers",
+  "external_ids": {
+    "wikidata": "Q2977271",
+    "imdb": "nm0218334"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1962
+}
