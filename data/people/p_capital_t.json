@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_capital_t",
+  "name": "Capital T",
+  "external_ids": {
+    "wikidata": "Q19959133",
+    "imdb": "nm12680978"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1991
+}

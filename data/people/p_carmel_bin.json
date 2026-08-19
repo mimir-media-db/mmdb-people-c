@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_carmel_bin",
+  "name": "Carmel Bin",
+  "external_ids": {
+    "wikidata": "Q110887960",
+    "imdb": "nm9491810"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}

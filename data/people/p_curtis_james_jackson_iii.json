@@ -2,14 +2,13 @@
   "schema_version": 1,
   "id": "p_curtis_james_jackson_iii",
   "name": "50 Cent",
-  "also_known_as": [
-    "Curtis James Jackson III"
-  ],
-  "birth_year": 1975,
-  "death_year": null,
   "external_ids": {
     "wikidata": "Q6060",
     "imdb": "nm1265067"
   },
-  "last_updated": "2026-08-18"
+  "last_updated": "2026-08-19",
+  "also_known_as": [
+    "Curtis James Jackson III"
+  ],
+  "birth_year": 1975
 }
