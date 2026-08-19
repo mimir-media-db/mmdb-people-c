@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chuck_schumer",
+  "name": "Chuck Schumer",
+  "external_ids": {
+    "wikidata": "Q380900",
+    "imdb": "nm1528459"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1950
+}

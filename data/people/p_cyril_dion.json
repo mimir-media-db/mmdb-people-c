@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cyril_dion",
+  "name": "Cyril Dion",
+  "external_ids": {
+    "wikidata": "Q21654137",
+    "imdb": "nm4185610"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cat_forrest",
+  "name": "Cat Forrest",
+  "external_ids": {
+    "wikidata": "Q33026871",
+    "imdb": "nm3192745"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1947
+}
