@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_carla_laemmle",
+  "name": "Carla Laemmle",
+  "external_ids": {
+    "wikidata": "Q260337",
+    "imdb": "nm0480675"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1909,
+  "death_year": 2014
+}

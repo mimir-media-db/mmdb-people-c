@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_cecil_beaton",
+  "name": "Cecil Beaton",
+  "external_ids": {
+    "wikidata": "Q697096",
+    "imdb": "nm0064100"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1904,
+  "death_year": 1980
+}

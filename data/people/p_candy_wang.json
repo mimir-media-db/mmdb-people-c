@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_candy_wang",
+  "name": "Candy Wang",
+  "external_ids": {
+    "wikidata": "Q24833957",
+    "imdb": "nm5556060"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1992
+}
