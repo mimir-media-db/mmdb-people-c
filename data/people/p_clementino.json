@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_clementino",
+  "name": "Clementino",
+  "external_ids": {
+    "wikidata": "Q3680485",
+    "imdb": "nm6262017"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}
