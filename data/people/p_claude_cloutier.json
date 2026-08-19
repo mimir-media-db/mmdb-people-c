@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_cloutier",
+  "name": "Claude Cloutier",
+  "external_ids": {
+    "wikidata": "Q21606010",
+    "imdb": "nm0167211"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1957
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_charles_venn",
+  "name": "Charles Venn",
+  "external_ids": {
+    "wikidata": "Q5115892",
+    "imdb": "nm1111200"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1973
+}

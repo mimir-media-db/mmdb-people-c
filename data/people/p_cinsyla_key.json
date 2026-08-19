@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cinsyla_key",
+  "name": "Cinsyla Key",
+  "external_ids": {
+    "wikidata": "Q5121093",
+    "imdb": "nm3047619"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

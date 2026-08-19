@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_carlos_the_jackal",
+  "name": "Carlos the Jackal",
+  "external_ids": {
+    "wikidata": "Q222831",
+    "imdb": "nm1391482"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949
+}

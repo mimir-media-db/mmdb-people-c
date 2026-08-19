@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_charley_chase",
+  "name": "Charley Chase",
+  "external_ids": {
+    "wikidata": "Q726089",
+    "imdb": "nm0153713"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1893,
+  "death_year": 1940
+}
