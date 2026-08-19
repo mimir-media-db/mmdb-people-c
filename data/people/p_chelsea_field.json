@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chelsea_field",
+  "name": "Chelsea Field",
+  "external_ids": {
+    "wikidata": "Q2962235",
+    "imdb": "nm0001210"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1957
+}
