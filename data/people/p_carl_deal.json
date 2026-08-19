@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_carl_deal",
+  "name": "Carl Deal",
+  "external_ids": {
+    "wikidata": "Q5040032",
+    "imdb": "nm1179906"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}

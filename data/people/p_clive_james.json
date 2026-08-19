@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_clive_james",
+  "name": "Clive James",
+  "external_ids": {
+    "wikidata": "Q2979432",
+    "imdb": "nm0416380"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1939,
+  "death_year": 2019
+}

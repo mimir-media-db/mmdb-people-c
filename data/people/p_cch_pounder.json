@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cch_pounder",
+  "name": "CCH Pounder",
+  "external_ids": {
+    "wikidata": "Q236434",
+    "imdb": "nm0001634"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952
+}

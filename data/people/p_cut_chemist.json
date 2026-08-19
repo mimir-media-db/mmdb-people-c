@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cut_chemist",
+  "name": "Cut Chemist",
+  "external_ids": {
+    "wikidata": "Q2658111",
+    "imdb": "nm0532188"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}

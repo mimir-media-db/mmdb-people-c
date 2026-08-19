@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cass_pennant",
+  "name": "Cass Pennant",
+  "external_ids": {
+    "wikidata": "Q3661896",
+    "imdb": "nm2580086"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1958
+}
