@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ci_sha",
+  "name": "Ci Sha",
+  "external_ids": {
+    "wikidata": "Q126332518",
+    "imdb": "nm14569781"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1997
+}
