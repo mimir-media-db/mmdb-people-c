@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_le_pape",
+  "name": "Claude Le Pape",
+  "external_ids": {
+    "wikidata": "Q50364845",
+    "imdb": "nm2681915"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949
+}
