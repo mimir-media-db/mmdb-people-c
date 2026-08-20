@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_cazuza",
+  "name": "Cazuza",
+  "external_ids": {
+    "wikidata": "Q731775",
+    "imdb": "nm0147408"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1958,
+  "death_year": 1990
+}
