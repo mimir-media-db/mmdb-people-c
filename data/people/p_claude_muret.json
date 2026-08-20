@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_muret",
+  "name": "Claude Muret",
+  "external_ids": {
+    "wikidata": "Q83147602",
+    "imdb": "nm0613841"
+  },
+  "last_updated": "2026-08-20"
+}

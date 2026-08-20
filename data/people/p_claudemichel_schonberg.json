@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_claudemichel_schonberg",
+  "name": "Claude-Michel Schönberg",
+  "external_ids": {
+    "wikidata": "Q712004",
+    "imdb": "nm0774744"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1944
+}

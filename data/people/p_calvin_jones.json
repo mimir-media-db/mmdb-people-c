@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_calvin_jones",
+  "name": "Calvin Jones",
+  "external_ids": {
+    "wikidata": "Q20083725",
+    "imdb": "nm3841024"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1966
+}
