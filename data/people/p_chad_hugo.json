@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chad_hugo",
+  "name": "Chad Hugo",
+  "external_ids": {
+    "wikidata": "Q706641",
+    "imdb": "nm1213145"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1974
+}
