@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_colin_towns",
+  "name": "Colin Towns",
+  "external_ids": {
+    "wikidata": "Q352783",
+    "imdb": "nm0870061"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1948
+}
