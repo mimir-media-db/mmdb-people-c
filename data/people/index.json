@@ -744,6 +744,12 @@
     "path": "data/people/p_caitlin_oconnor.json"
   },
   {
+    "id": "p_caitlin_parrish",
+    "name": "Caitlin Parrish",
+    "birth_year": 1900,
+    "path": "data/people/p_caitlin_parrish.json"
+  },
+  {
     "id": "p_caitlin_r_kiernan",
     "name": "Caitlín R. Kiernan",
     "birth_year": 1964,
@@ -1139,7 +1145,7 @@
   {
     "id": "p_callie_hernandez",
     "name": "Callie Hernandez",
-    "birth_year": 1988,
+    "birth_year": 1995,
     "path": "data/people/p_callie_hernandez.json"
   },
   {
@@ -13627,6 +13633,12 @@
     "path": "data/people/p_cecile_bayiha.json"
   },
   {
+    "id": "p_cecile_believe",
+    "name": "Cecile Believe",
+    "birth_year": 1985,
+    "path": "data/people/p_cecile_believe.json"
+  },
+  {
     "id": "p_cecile_bois",
     "name": "Cécile Bois",
     "birth_year": 1971,
@@ -16549,6 +16561,11 @@
     "path": "data/people/p_chad_rook.json"
   },
   {
+    "id": "p_chad_st_john",
+    "name": "Chad St. John",
+    "path": "data/people/p_chad_st_john.json"
+  },
+  {
     "id": "p_chad_stahelski",
     "name": "Chad Stahelski",
     "birth_year": 1968,
@@ -16816,6 +16833,12 @@
     "name": "Chairun Nissa",
     "birth_year": 1984,
     "path": "data/people/p_chairun_nissa.json"
+  },
+  {
+    "id": "p_chaitan_bharadwaj",
+    "name": "Chaitan Bharadwaj",
+    "birth_year": 1988,
+    "path": "data/people/p_chaitan_bharadwaj.json"
   },
   {
     "id": "p_chaitanya_krishna",
@@ -20110,6 +20133,12 @@
     "name": "Charlie Hunnam",
     "birth_year": 1980,
     "path": "data/people/p_charlie_hunnam.json"
+  },
+  {
+    "id": "p_charlie_huston",
+    "name": "Charlie Huston",
+    "birth_year": 1967,
+    "path": "data/people/p_charlie_huston.json"
   },
   {
     "id": "p_charlie_jefferson",
@@ -24195,6 +24224,12 @@
     "path": "data/people/p_chihei_hatakeyama.json"
   },
   {
+    "id": "p_chihhsiang_huang",
+    "name": "Chih-Hsiang Huang",
+    "birth_year": 1959,
+    "path": "data/people/p_chihhsiang_huang.json"
+  },
+  {
     "id": "p_chihiro_amano",
     "name": "Chihiro Amano",
     "birth_year": 1982,
@@ -24241,6 +24276,11 @@
     "name": "Chih-Ju Lin",
     "birth_year": 1961,
     "path": "data/people/p_chihju_lin.json"
+  },
+  {
+    "id": "p_chihkai_huang",
+    "name": "Chih-Kai Huang",
+    "path": "data/people/p_chihkai_huang.json"
   },
   {
     "id": "p_chiho_katsura",
@@ -24963,7 +25003,7 @@
   {
     "id": "p_chiranjeet",
     "name": "Chiranjeet",
-    "birth_year": 1955,
+    "birth_year": 1960,
     "path": "data/people/p_chiranjeet.json"
   },
   {
@@ -26123,6 +26163,12 @@
     "name": "Choi Kyu-hwan",
     "birth_year": 1978,
     "path": "data/people/p_choi_kyuhwan.json"
+  },
+  {
+    "id": "p_choi_kyusok",
+    "name": "Choi Kyu-sok",
+    "birth_year": 1977,
+    "path": "data/people/p_choi_kyusok.json"
   },
   {
     "id": "p_choi_min",
@@ -27308,7 +27354,6 @@
   {
     "id": "p_chris_fisher",
     "name": "Chris Fisher",
-    "birth_year": 1971,
     "path": "data/people/p_chris_fisher.json"
   },
   {
@@ -27707,6 +27752,11 @@
     "path": "data/people/p_chris_kattan.json"
   },
   {
+    "id": "p_chris_kekaniokalani_bright",
+    "name": "Chris Kekaniokalani Bright",
+    "path": "data/people/p_chris_kekaniokalani_bright.json"
+  },
+  {
     "id": "p_chris_kelly",
     "name": "Chris Kelly",
     "birth_year": 1983,
@@ -28025,7 +28075,7 @@
   {
     "id": "p_chris_messina",
     "name": "Chris Messina",
-    "birth_year": 1973,
+    "birth_year": 1974,
     "path": "data/people/p_chris_messina.json"
   },
   {
@@ -35491,7 +35541,7 @@
   {
     "id": "p_christopher_lee",
     "name": "Christopher Lee",
-    "birth_year": 1971,
+    "birth_year": 1922,
     "path": "data/people/p_christopher_lee.json"
   },
   {
@@ -35654,7 +35704,7 @@
   {
     "id": "p_christopher_mcdonald",
     "name": "Christopher McDonald",
-    "birth_year": 1955,
+    "birth_year": 1976,
     "path": "data/people/p_christopher_mcdonald.json"
   },
   {
@@ -39242,6 +39292,12 @@
     "name": "Clara Paget",
     "birth_year": 1988,
     "path": "data/people/p_clara_paget.json"
+  },
+  {
+    "id": "p_clara_peya",
+    "name": "Clara Peya",
+    "birth_year": 1986,
+    "path": "data/people/p_clara_peya.json"
   },
   {
     "id": "p_clara_picasso",
@@ -43579,6 +43635,11 @@
     "path": "data/people/p_clovis_mello.json"
   },
   {
+    "id": "p_clovis_schneider",
+    "name": "Clovis Schneider",
+    "path": "data/people/p_clovis_schneider.json"
+  },
+  {
     "id": "p_cls_dietmann",
     "name": "Clæs Dietmann",
     "birth_year": 1968,
@@ -44728,6 +44789,12 @@
     "path": "data/people/p_colin_teague.json"
   },
   {
+    "id": "p_colin_teevan",
+    "name": "Colin Teevan",
+    "birth_year": 1967,
+    "path": "data/people/p_colin_teevan.json"
+  },
+  {
     "id": "p_colin_theys",
     "name": "Colin Theys",
     "birth_year": 1985,
@@ -45861,6 +45928,12 @@
     "path": "data/people/p_constance_brenneman.json"
   },
   {
+    "id": "p_constance_debre",
+    "name": "Constance Debré",
+    "birth_year": 1972,
+    "path": "data/people/p_constance_debre.json"
+  },
+  {
     "id": "p_constance_dolle",
     "name": "Constance Dollé",
     "birth_year": 1973,
@@ -46986,7 +47059,6 @@
   {
     "id": "p_cornel_wilczek",
     "name": "Cornel Wilczek",
-    "birth_year": 1935,
     "path": "data/people/p_cornel_wilczek.json"
   },
   {
