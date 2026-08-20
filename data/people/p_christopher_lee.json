@@ -3,9 +3,10 @@
   "id": "p_christopher_lee",
   "name": "Christopher Lee",
   "external_ids": {
-    "wikidata": "Q5112719",
-    "imdb": "nm1177124"
+    "wikidata": "Q180338",
+    "imdb": "nm0000489"
   },
   "last_updated": "2026-08-20",
-  "birth_year": 1971
+  "birth_year": 1922,
+  "death_year": 2015
 }
