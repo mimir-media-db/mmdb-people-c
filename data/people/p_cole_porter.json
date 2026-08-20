@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_cole_porter",
+  "name": "Cole Porter",
+  "external_ids": {
+    "wikidata": "Q215120",
+    "imdb": "nm0006234"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1891,
+  "death_year": 1964
+}
