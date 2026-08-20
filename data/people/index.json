@@ -5632,6 +5632,12 @@
     "path": "data/people/p_carlo_verdone.json"
   },
   {
+    "id": "p_carlo_vergara",
+    "name": "Carlo Vergara",
+    "birth_year": 1971,
+    "path": "data/people/p_carlo_vergara.json"
+  },
+  {
     "id": "p_carlo_virzi",
     "name": "Carlo Virzì",
     "birth_year": 1972,
@@ -6165,6 +6171,12 @@
     "path": "data/people/p_carlos_daniel_malave.json"
   },
   {
+    "id": "p_carlos_de_diego",
+    "name": "Carlos de Diego",
+    "birth_year": 1974,
+    "path": "data/people/p_carlos_de_diego.json"
+  },
+  {
     "id": "p_carlos_defeo",
     "name": "Carlos Defeo",
     "birth_year": 1965,
@@ -6420,7 +6432,7 @@
   {
     "id": "p_carlos_gonzalez",
     "name": "Carlos González",
-    "birth_year": 1985,
+    "birth_year": 1997,
     "path": "data/people/p_carlos_gonzalez.json"
   },
   {
@@ -9043,6 +9055,12 @@
     "id": "p_carolina_espinoza",
     "name": "Carolina Espinoza",
     "path": "data/people/p_carolina_espinoza.json"
+  },
+  {
+    "id": "p_carolina_eyck",
+    "name": "Carolina Eyck",
+    "birth_year": 1987,
+    "path": "data/people/p_carolina_eyck.json"
   },
   {
     "id": "p_carolina_fal",
@@ -13667,6 +13685,12 @@
     "name": "Cécile Cassel",
     "birth_year": 1982,
     "path": "data/people/p_cecile_cassel.json"
+  },
+  {
+    "id": "p_cecile_corbel",
+    "name": "Cécile Corbel",
+    "birth_year": 1980,
+    "path": "data/people/p_cecile_corbel.json"
   },
   {
     "id": "p_cecile_de_france",
@@ -22469,7 +22493,7 @@
   {
     "id": "p_chen_mingchang",
     "name": "Chen Ming-chang",
-    "birth_year": 1973,
+    "birth_year": 1956,
     "path": "data/people/p_chen_mingchang.json"
   },
   {
@@ -26880,7 +26904,7 @@
   {
     "id": "p_chris_butler",
     "name": "Chris Butler",
-    "birth_year": 1952,
+    "birth_year": 1974,
     "path": "data/people/p_chris_butler.json"
   },
   {
@@ -28075,7 +28099,7 @@
   {
     "id": "p_chris_messina",
     "name": "Chris Messina",
-    "birth_year": 1974,
+    "birth_year": 1973,
     "path": "data/people/p_chris_messina.json"
   },
   {
@@ -36471,7 +36495,7 @@
   {
     "id": "p_christopher_young",
     "name": "Christopher Young",
-    "birth_year": 1958,
+    "birth_year": 1954,
     "path": "data/people/p_christopher_young.json"
   },
   {
@@ -40949,6 +40973,12 @@
     "path": "data/people/p_claudia_martini.json"
   },
   {
+    "id": "p_claudia_matschulla",
+    "name": "Claudia Matschulla",
+    "birth_year": 1959,
+    "path": "data/people/p_claudia_matschulla.json"
+  },
+  {
     "id": "p_claudia_mauro",
     "name": "Cláudia Mauro",
     "birth_year": 1969,
@@ -41139,6 +41169,12 @@
     "id": "p_claudia_sangiorgi_dalimore",
     "name": "Claudia Sangiorgi Dalimore",
     "path": "data/people/p_claudia_sangiorgi_dalimore.json"
+  },
+  {
+    "id": "p_claudia_sarne",
+    "name": "Claudia Sarne",
+    "birth_year": 1969,
+    "path": "data/people/p_claudia_sarne.json"
   },
   {
     "id": "p_claudia_schiffer",
@@ -44191,6 +44227,11 @@
     "path": "data/people/p_colby_boothman.json"
   },
   {
+    "id": "p_colby_day",
+    "name": "Colby Day",
+    "path": "data/people/p_colby_day.json"
+  },
+  {
     "id": "p_colby_donaldson",
     "name": "Colby Donaldson",
     "birth_year": 1974,
@@ -46972,6 +47013,11 @@
     "id": "p_corinne_kuenzli",
     "name": "Corinne Kuenzli",
     "path": "data/people/p_corinne_kuenzli.json"
+  },
+  {
+    "id": "p_corinne_le_hong",
+    "name": "Corinne Le Hong",
+    "path": "data/people/p_corinne_le_hong.json"
   },
   {
     "id": "p_corinne_marchand",
