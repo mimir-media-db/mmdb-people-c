@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cody_carpenter",
+  "name": "Cody Carpenter",
+  "external_ids": {
+    "wikidata": "Q103469627",
+    "imdb": "nm1230210"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1984
+}
