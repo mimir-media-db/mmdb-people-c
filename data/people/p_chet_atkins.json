@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_chet_atkins",
+  "name": "Chet Atkins",
+  "external_ids": {
+    "wikidata": "Q72096",
+    "imdb": "nm0040562"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1924,
+  "death_year": 2001
+}
