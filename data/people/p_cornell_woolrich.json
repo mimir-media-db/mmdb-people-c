@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_cornell_woolrich",
+  "name": "Cornell Woolrich",
+  "external_ids": {
+    "wikidata": "Q544207",
+    "imdb": "nm0409997"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1903,
+  "death_year": 1968
+}
