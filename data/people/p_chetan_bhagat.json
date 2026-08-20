@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chetan_bhagat",
+  "name": "Chetan Bhagat",
+  "external_ids": {
+    "wikidata": "Q46926",
+    "imdb": "nm2746459"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1974
+}
