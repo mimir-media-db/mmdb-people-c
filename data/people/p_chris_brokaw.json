@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_brokaw",
+  "name": "Chris Brokaw",
+  "external_ids": {
+    "wikidata": "Q1077028",
+    "imdb": "nm0111227"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1964
+}
