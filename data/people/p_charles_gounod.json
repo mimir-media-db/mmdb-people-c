@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_charles_gounod",
+  "name": "Charles Gounod",
+  "external_ids": {
+    "wikidata": "Q180278",
+    "imdb": "nm0006111"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1818,
+  "death_year": 1893
+}
