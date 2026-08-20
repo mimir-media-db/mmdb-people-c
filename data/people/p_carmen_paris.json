@@ -1,9 +1,10 @@
 {
   "schema_version": 1,
-  "id": "p_craig_kallman",
-  "name": "Craig Kallman",
+  "id": "p_carmen_paris",
+  "name": "Carmen París",
   "external_ids": {
-    "wikidata": "Q5181109"
+    "wikidata": "Q4345178",
+    "imdb": "nm1667474"
   },
   "last_updated": "2026-08-20",
   "birth_year": 1965
