@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_lang",
+  "name": "Chris Lang",
+  "external_ids": {
+    "wikidata": "Q16239109",
+    "imdb": "nm0485712"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1960
+}
