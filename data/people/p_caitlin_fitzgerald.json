@@ -1,10 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_caitlin_fitzgerald",
-  "name": "Caitlin Fitzgerald",
+  "name": "Caitlin FitzGerald",
   "external_ids": {
-    "wikidata": "Q27050622",
-    "imdb": "nm6285398"
+    "wikidata": "Q3649957",
+    "imdb": "nm2624186"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1983
 }
