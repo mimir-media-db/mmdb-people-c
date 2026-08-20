@@ -1099,7 +1099,7 @@
   {
     "id": "p_callie_hernandez",
     "name": "Callie Hernandez",
-    "birth_year": 1988,
+    "birth_year": 1995,
     "path": "data/people/p_callie_hernandez.json"
   },
   {
@@ -5433,6 +5433,12 @@
     "path": "data/people/p_carlo_rola.json"
   },
   {
+    "id": "p_carlo_romano",
+    "name": "Carlo Romano",
+    "birth_year": 1908,
+    "path": "data/people/p_carlo_romano.json"
+  },
+  {
     "id": "p_carlo_rota",
     "name": "Carlo Rota",
     "birth_year": 1961,
@@ -5484,6 +5490,11 @@
     "name": "Carlo Taranto",
     "birth_year": 1961,
     "path": "data/people/p_carlo_taranto.json"
+  },
+  {
+    "id": "p_carlo_tosini",
+    "name": "Carlo Tosini",
+    "path": "data/people/p_carlo_tosini.json"
   },
   {
     "id": "p_carlo_tuzii",
@@ -6222,6 +6233,11 @@
     "name": "Carlos Galiana",
     "birth_year": 1974,
     "path": "data/people/p_carlos_galiana.json"
+  },
+  {
+    "id": "p_carlos_galiano",
+    "name": "Carlos Galiano",
+    "path": "data/people/p_carlos_galiano.json"
   },
   {
     "id": "p_carlos_gallardo",
@@ -9512,7 +9528,7 @@
   {
     "id": "p_caroline_harris",
     "name": "Caroline Harris",
-    "birth_year": 1866,
+    "birth_year": 1867,
     "path": "data/people/p_caroline_harris.json"
   },
   {
@@ -9780,6 +9796,12 @@
     "name": "Caroline Schreiber",
     "birth_year": 1961,
     "path": "data/people/p_caroline_schreiber.json"
+  },
+  {
+    "id": "p_caroline_shaw",
+    "name": "Caroline Shaw",
+    "birth_year": 1982,
+    "path": "data/people/p_caroline_shaw.json"
   },
   {
     "id": "p_caroline_sihol",
@@ -10433,6 +10455,12 @@
     "path": "data/people/p_carsten_rau.json"
   },
   {
+    "id": "p_carsten_rocker",
+    "name": "Carsten Rocker",
+    "birth_year": 1969,
+    "path": "data/people/p_carsten_rocker.json"
+  },
+  {
     "id": "p_carsten_rudolf",
     "name": "Carsten Rudolf",
     "birth_year": 1965,
@@ -10769,6 +10797,11 @@
     "id": "p_casey_manderson",
     "name": "Casey Manderson",
     "path": "data/people/p_casey_manderson.json"
+  },
+  {
+    "id": "p_casey_manierkaquaile",
+    "name": "Casey Manierka-Quaile",
+    "path": "data/people/p_casey_manierkaquaile.json"
   },
   {
     "id": "p_casey_mcquiston",
@@ -12326,6 +12359,12 @@
     "name": "Catherine Lefroid",
     "birth_year": 1952,
     "path": "data/people/p_catherine_lefroid.json"
+  },
+  {
+    "id": "p_catherine_leger",
+    "name": "Catherine Léger",
+    "birth_year": 1980,
+    "path": "data/people/p_catherine_leger.json"
   },
   {
     "id": "p_catherine_lemercier",
@@ -16107,6 +16146,12 @@
     "path": "data/people/p_chad_hobson.json"
   },
   {
+    "id": "p_chad_hodge",
+    "name": "Chad Hodge",
+    "birth_year": 1976,
+    "path": "data/people/p_chad_hodge.json"
+  },
+  {
     "id": "p_chad_hugo",
     "name": "Chad Hugo",
     "birth_year": 1974,
@@ -16912,6 +16957,12 @@
     "path": "data/people/p_chandan_sen.json"
   },
   {
+    "id": "p_chandan_shetty",
+    "name": "Chandan Shetty",
+    "birth_year": 1989,
+    "path": "data/people/p_chandan_shetty.json"
+  },
+  {
     "id": "p_chandan_sinha",
     "name": "Chandan Sinha",
     "path": "data/people/p_chandan_sinha.json"
@@ -17692,6 +17743,12 @@
     "name": "Chantal Thuy",
     "birth_year": 1975,
     "path": "data/people/p_chantal_thuy.json"
+  },
+  {
+    "id": "p_chantal_van_gastel",
+    "name": "Chantal van Gastel",
+    "birth_year": 1979,
+    "path": "data/people/p_chantal_van_gastel.json"
   },
   {
     "id": "p_chantale_giroux",
@@ -19481,6 +19538,12 @@
     "path": "data/people/p_charlie_bewley.json"
   },
   {
+    "id": "p_charlie_brooker",
+    "name": "Charlie Brooker",
+    "birth_year": 1971,
+    "path": "data/people/p_charlie_brooker.json"
+  },
+  {
     "id": "p_charlie_bruce",
     "name": "Charlie Bruce",
     "birth_year": 1989,
@@ -19960,6 +20023,12 @@
     "name": "Charlie Rhindress",
     "birth_year": 1966,
     "path": "data/people/p_charlie_rhindress.json"
+  },
+  {
+    "id": "p_charlie_rishmawi",
+    "name": "Charlie Rishmawi",
+    "birth_year": 1986,
+    "path": "data/people/p_charlie_rishmawi.json"
   },
   {
     "id": "p_charlie_rose",
@@ -21345,6 +21414,12 @@
     "path": "data/people/p_che_tafari.json"
   },
   {
+    "id": "p_che_walker",
+    "name": "Ché Walker",
+    "birth_year": 1967,
+    "path": "data/people/p_che_walker.json"
+  },
+  {
     "id": "p_che_xiaotong",
     "name": "Che Xiaotong",
     "path": "data/people/p_che_xiaotong.json"
@@ -22238,6 +22313,11 @@
     "path": "data/people/p_chen_zhou.json"
   },
   {
+    "id": "p_chen_zhuzhu",
+    "name": "Chen Zhuzhu",
+    "path": "data/people/p_chen_zhuzhu.json"
+  },
+  {
     "id": "p_cheney_chen",
     "name": "Cheney Chen",
     "birth_year": 1990,
@@ -22346,6 +22426,7 @@
   {
     "id": "p_cheng_zhang",
     "name": "Cheng Zhang",
+    "birth_year": 1976,
     "path": "data/people/p_cheng_zhang.json"
   },
   {
@@ -22374,6 +22455,12 @@
     "id": "p_chenti_kuo",
     "name": "Chen-Ti Kuo",
     "path": "data/people/p_chenti_kuo.json"
+  },
+  {
+    "id": "p_cheo_hodari_coker",
+    "name": "Cheo Hodari Coker",
+    "birth_year": 1972,
+    "path": "data/people/p_cheo_hodari_coker.json"
   },
   {
     "id": "p_cheo_tapia",
@@ -22680,6 +22767,11 @@
     "name": "Cheryl l'Hirondelle",
     "birth_year": 1958,
     "path": "data/people/p_cheryl_lhirondelle.json"
+  },
+  {
+    "id": "p_cheryl_mckay",
+    "name": "Cheryl McKay",
+    "path": "data/people/p_cheryl_mckay.json"
   },
   {
     "id": "p_cheryl_miller_houser",
@@ -25684,7 +25776,6 @@
   {
     "id": "p_choi_min",
     "name": "Choi Min",
-    "birth_year": 1986,
     "path": "data/people/p_choi_min.json"
   },
   {
@@ -25696,6 +25787,7 @@
   {
     "id": "p_choi_minho",
     "name": "Choi Min-ho",
+    "birth_year": 1991,
     "path": "data/people/p_choi_minho.json"
   },
   {
@@ -25784,6 +25876,12 @@
     "name": "Choi Sung-eun",
     "birth_year": 1996,
     "path": "data/people/p_choi_sungeun.json"
+  },
+  {
+    "id": "p_choi_sunghyun",
+    "name": "Choi Sung-hyun",
+    "birth_year": 1982,
+    "path": "data/people/p_choi_sunghyun.json"
   },
   {
     "id": "p_choi_sungwon",
@@ -26047,6 +26145,12 @@
     "id": "p_chris_alvarez",
     "name": "Chris Alvarez",
     "path": "data/people/p_chris_alvarez.json"
+  },
+  {
+    "id": "p_chris_anastasi",
+    "name": "Chris Anastasi",
+    "birth_year": 1987,
+    "path": "data/people/p_chris_anastasi.json"
   },
   {
     "id": "p_chris_anderson",
@@ -26360,6 +26464,12 @@
     "name": "Chris Buck",
     "birth_year": 1960,
     "path": "data/people/p_chris_buck.json"
+  },
+  {
+    "id": "p_chris_burdza",
+    "name": "Chris Burdza",
+    "birth_year": 1953,
+    "path": "data/people/p_chris_burdza.json"
   },
   {
     "id": "p_chris_burkard",
@@ -27448,7 +27558,6 @@
   {
     "id": "p_chris_martin",
     "name": "Chris Martin",
-    "birth_year": 1977,
     "path": "data/people/p_chris_martin.json"
   },
   {
@@ -28934,6 +29043,11 @@
     "path": "data/people/p_christiaan_van_vuuren.json"
   },
   {
+    "id": "p_christiaan_verbeek",
+    "name": "Christiaan Verbeek",
+    "path": "data/people/p_christiaan_verbeek.json"
+  },
+  {
     "id": "p_christian",
     "name": "Christian",
     "birth_year": 1973,
@@ -29222,6 +29336,11 @@
     "name": "Christian Bujeau",
     "birth_year": 1944,
     "path": "data/people/p_christian_bujeau.json"
+  },
+  {
+    "id": "p_christian_butcher",
+    "name": "Christian Butcher",
+    "path": "data/people/p_christian_butcher.json"
   },
   {
     "id": "p_christian_byers",
@@ -32513,6 +32632,12 @@
     "path": "data/people/p_christine_oswald.json"
   },
   {
+    "id": "p_christine_ott",
+    "name": "Christine Ott",
+    "birth_year": 1963,
+    "path": "data/people/p_christine_ott.json"
+  },
+  {
     "id": "p_christine_pepelyan",
     "name": "Christine Pepelyan",
     "birth_year": 1980,
@@ -32746,6 +32871,11 @@
     "path": "data/people/p_christof_neracher.json"
   },
   {
+    "id": "p_christof_ritter",
+    "name": "Christof Ritter",
+    "path": "data/people/p_christof_ritter.json"
+  },
+  {
     "id": "p_christof_schafer",
     "name": "Christof Schäfer",
     "path": "data/people/p_christof_schafer.json"
@@ -32777,6 +32907,12 @@
     "name": "Christoffer Barnekow",
     "birth_year": 1940,
     "path": "data/people/p_christoffer_barnekow.json"
+  },
+  {
+    "id": "p_christoffer_berg",
+    "name": "Christoffer Berg",
+    "birth_year": 1981,
+    "path": "data/people/p_christoffer_berg.json"
   },
   {
     "id": "p_christoffer_boe",
@@ -33233,6 +33369,12 @@
     "name": "Christoph Schaub",
     "birth_year": 1957,
     "path": "data/people/p_christoph_schaub.json"
+  },
+  {
+    "id": "p_christoph_schauer",
+    "name": "Christoph Schauer",
+    "birth_year": 1968,
+    "path": "data/people/p_christoph_schauer.json"
   },
   {
     "id": "p_christoph_schechinger",
@@ -34117,6 +34259,11 @@
     "path": "data/people/p_christopher_bowen.json"
   },
   {
+    "id": "p_christopher_boyce",
+    "name": "Christopher Boyce",
+    "path": "data/people/p_christopher_boyce.json"
+  },
+  {
     "id": "p_christopher_boyer",
     "name": "Christopher Boyer",
     "path": "data/people/p_christopher_boyer.json"
@@ -34550,6 +34697,11 @@
     "name": "Christopher Hewett",
     "birth_year": 1922,
     "path": "data/people/p_christopher_hewett.json"
+  },
+  {
+    "id": "p_christopher_hewitson",
+    "name": "Christopher Hewitson",
+    "path": "data/people/p_christopher_hewitson.json"
   },
   {
     "id": "p_christopher_heyerdahl",
@@ -35472,6 +35624,12 @@
     "id": "p_christopher_spencerlowe",
     "name": "Christopher Spencer-Lowe",
     "path": "data/people/p_christopher_spencerlowe.json"
+  },
+  {
+    "id": "p_christopher_st_john",
+    "name": "Christopher St. John",
+    "birth_year": 1941,
+    "path": "data/people/p_christopher_st_john.json"
   },
   {
     "id": "p_christopher_stanley",
@@ -37931,6 +38089,11 @@
     "path": "data/people/p_claire_laborey.json"
   },
   {
+    "id": "p_claire_lajeunie",
+    "name": "Claire Lajeunie",
+    "path": "data/people/p_claire_lajeunie.json"
+  },
+  {
     "id": "p_claire_laroche",
     "name": "Claire Laroche",
     "path": "data/people/p_claire_laroche.json"
@@ -37939,6 +38102,12 @@
     "id": "p_claire_lemarechal",
     "name": "Claire Lemaréchal",
     "path": "data/people/p_claire_lemarechal.json"
+  },
+  {
+    "id": "p_claire_m_singer",
+    "name": "Claire M Singer",
+    "birth_year": 1982,
+    "path": "data/people/p_claire_m_singer.json"
   },
   {
     "id": "p_claire_magnin",
@@ -39978,6 +40147,12 @@
     "path": "data/people/p_claudia_katayanagi.json"
   },
   {
+    "id": "p_claudia_kaufmann",
+    "name": "Claudia Kaufmann",
+    "birth_year": 1999,
+    "path": "data/people/p_claudia_kaufmann.json"
+  },
+  {
     "id": "p_claudia_kedneybolduc",
     "name": "Claudia Kedney-Bolduc",
     "path": "data/people/p_claudia_kedneybolduc.json"
@@ -40173,6 +40348,12 @@
     "name": "Claudia Pandolfi",
     "birth_year": 1974,
     "path": "data/people/p_claudia_pandolfi.json"
+  },
+  {
+    "id": "p_claudia_pineiro",
+    "name": "Claudia Piñeiro",
+    "birth_year": 1960,
+    "path": "data/people/p_claudia_pineiro.json"
   },
   {
     "id": "p_claudia_pinto_emperador",
@@ -41109,6 +41290,12 @@
     "path": "data/people/p_claudiu_trandafir.json"
   },
   {
+    "id": "p_claudius_plaging",
+    "name": "Claudius Pläging",
+    "birth_year": 1974,
+    "path": "data/people/p_claudius_plaging.json"
+  },
+  {
     "id": "p_claudius_seidl",
     "name": "Claudius Seidl",
     "birth_year": 1959,
@@ -41436,6 +41623,11 @@
     "id": "p_clayton_evertson",
     "name": "Clayton Evertson",
     "path": "data/people/p_clayton_evertson.json"
+  },
+  {
+    "id": "p_clayton_hewitson",
+    "name": "Clayton Hewitson",
+    "path": "data/people/p_clayton_hewitson.json"
   },
   {
     "id": "p_clayton_jacobson",
@@ -45090,6 +45282,12 @@
     "path": "data/people/p_constantin_hatz.json"
   },
   {
+    "id": "p_constantin_lieb",
+    "name": "Constantin Lieb",
+    "birth_year": 1986,
+    "path": "data/people/p_constantin_lieb.json"
+  },
+  {
     "id": "p_constantin_lohrmann",
     "name": "Constantin Löhrmann",
     "path": "data/people/p_constantin_lohrmann.json"
@@ -48450,6 +48648,11 @@
     "name": "Cristina Gallego",
     "birth_year": 1977,
     "path": "data/people/p_cristina_gallego.json"
+  },
+  {
+    "id": "p_cristina_gares",
+    "name": "Cristina Garés",
+    "path": "data/people/p_cristina_gares.json"
   },
   {
     "id": "p_cristina_golotta",
