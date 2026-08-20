@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_van_allsburg",
+  "name": "Chris Van Allsburg",
+  "external_ids": {
+    "wikidata": "Q704553",
+    "imdb": "nm0885575"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1949
+}
