@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cody_fry",
+  "name": "Cody Fry",
+  "external_ids": {
+    "wikidata": "Q110409485",
+    "imdb": "nm7335344"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1990
+}
