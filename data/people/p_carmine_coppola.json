@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_carmine_coppola",
+  "name": "Carmine Coppola",
+  "external_ids": {
+    "wikidata": "Q658614",
+    "imdb": "nm0178874"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1910,
+  "death_year": 1991
+}
