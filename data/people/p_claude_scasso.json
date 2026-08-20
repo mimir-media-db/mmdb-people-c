@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_scasso",
+  "name": "Claude Scasso",
+  "external_ids": {
+    "wikidata": "Q2978140",
+    "imdb": "nm1019940"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1962
+}
