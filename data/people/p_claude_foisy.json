@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_foisy",
+  "name": "Claude Foisy",
+  "external_ids": {
+    "wikidata": "Q1096705",
+    "imdb": "nm0284001"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1954
+}
