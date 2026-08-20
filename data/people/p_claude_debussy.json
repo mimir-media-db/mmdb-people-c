@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_debussy",
+  "name": "Claude Debussy",
+  "external_ids": {
+    "wikidata": "Q4700",
+    "imdb": "nm0006033"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1862,
+  "death_year": 1918
+}
