@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_chris_corner",
+  "name": "Chris Corner",
+  "external_ids": {
+    "wikidata": "Q704635",
+    "imdb": "nm1793159"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1974
+}
