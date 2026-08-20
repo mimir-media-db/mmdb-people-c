@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_cur_de_pirate",
+  "name": "Cœur de pirate",
+  "external_ids": {
+    "wikidata": "Q289614",
+    "imdb": "nm1917800"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1989
+}
