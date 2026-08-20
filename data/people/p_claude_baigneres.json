@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_baigneres",
+  "name": "Claude Baignères",
+  "external_ids": {
+    "wikidata": "Q19279069"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1921,
+  "death_year": 2008
+}
