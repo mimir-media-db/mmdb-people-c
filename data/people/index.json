@@ -257,6 +257,11 @@
     "path": "data/people/p_cabu.json"
   },
   {
+    "id": "p_caca_mourthe",
+    "name": "Cacá Mourthé",
+    "path": "data/people/p_caca_mourthe.json"
+  },
+  {
     "id": "p_cacai_bautista",
     "name": "Cacai Bautista",
     "birth_year": 1978,
@@ -1117,7 +1122,7 @@
   {
     "id": "p_callie_hernandez",
     "name": "Callie Hernandez",
-    "birth_year": 1995,
+    "birth_year": 1988,
     "path": "data/people/p_callie_hernandez.json"
   },
   {
@@ -1611,6 +1616,12 @@
     "id": "p_cameron_larson",
     "name": "Cameron Larson",
     "path": "data/people/p_cameron_larson.json"
+  },
+  {
+    "id": "p_cameron_litvack",
+    "name": "Cameron Litvack",
+    "birth_year": 1980,
+    "path": "data/people/p_cameron_litvack.json"
   },
   {
     "id": "p_cameron_macgowan",
@@ -6343,6 +6354,7 @@
   {
     "id": "p_carlos_gil",
     "name": "Carlos Gil",
+    "birth_year": 1963,
     "path": "data/people/p_carlos_gil.json"
   },
   {
@@ -7055,6 +7067,7 @@
   {
     "id": "p_carlos_santos",
     "name": "Carlos Santos",
+    "birth_year": 1977,
     "path": "data/people/p_carlos_santos.json"
   },
   {
@@ -10702,6 +10715,12 @@
     "path": "data/people/p_caryhiroyuki_tagawa.json"
   },
   {
+    "id": "p_caryl_ferey",
+    "name": "Caryl Férey",
+    "birth_year": 1967,
+    "path": "data/people/p_caryl_ferey.json"
+  },
+  {
     "id": "p_caryl_phillips",
     "name": "Caryl Phillips",
     "birth_year": 1958,
@@ -10987,6 +11006,11 @@
     "name": "Casimir Liberski",
     "birth_year": 1988,
     "path": "data/people/p_casimir_liberski.json"
+  },
+  {
+    "id": "p_caspar_haarlv",
+    "name": "Caspar Haarløv",
+    "path": "data/people/p_caspar_haarlv.json"
   },
   {
     "id": "p_caspar_jexlev_fomsgaard",
@@ -11333,6 +11357,12 @@
     "name": "Cassie Jaye",
     "birth_year": 1986,
     "path": "data/people/p_cassie_jaye.json"
+  },
+  {
+    "id": "p_cassie_kinoshi",
+    "name": "Cassie Kinoshi",
+    "birth_year": 1992,
+    "path": "data/people/p_cassie_kinoshi.json"
   },
   {
     "id": "p_cassie_macmillian",
@@ -12472,7 +12502,7 @@
   {
     "id": "p_catherine_martin",
     "name": "Catherine Martin",
-    "birth_year": 1957,
+    "birth_year": 1965,
     "path": "data/people/p_catherine_martin.json"
   },
   {
@@ -12653,7 +12683,7 @@
   {
     "id": "p_catherine_salee",
     "name": "Catherine Salée",
-    "birth_year": 1972,
+    "birth_year": 1971,
     "path": "data/people/p_catherine_salee.json"
   },
   {
@@ -15201,6 +15231,12 @@
     "name": "Ceren Moray",
     "birth_year": 1985,
     "path": "data/people/p_ceren_moray.json"
+  },
+  {
+    "id": "p_cergio_prudencio",
+    "name": "Cergio Prudencio",
+    "birth_year": 1955,
+    "path": "data/people/p_cergio_prudencio.json"
   },
   {
     "id": "p_ceri_levy",
@@ -18883,6 +18919,11 @@
     "path": "data/people/p_charles_lewis.json"
   },
   {
+    "id": "p_charles_ludig",
+    "name": "Charles Ludig",
+    "path": "data/people/p_charles_ludig.json"
+  },
+  {
     "id": "p_charles_lum",
     "name": "Charles Lum",
     "birth_year": 1958,
@@ -21106,7 +21147,7 @@
   {
     "id": "p_charo_lopez",
     "name": "Charo López",
-    "birth_year": 1943,
+    "birth_year": 1980,
     "path": "data/people/p_charo_lopez.json"
   },
   {
@@ -26601,7 +26642,7 @@
   {
     "id": "p_chris_butler",
     "name": "Chris Butler",
-    "birth_year": 1974,
+    "birth_year": 1952,
     "path": "data/people/p_chris_butler.json"
   },
   {
@@ -27055,6 +27096,12 @@
     "path": "data/people/p_chris_farley.json"
   },
   {
+    "id": "p_chris_fedak",
+    "name": "Chris Fedak",
+    "birth_year": 1974,
+    "path": "data/people/p_chris_fedak.json"
+  },
+  {
     "id": "p_chris_ferguson",
     "name": "Chris Ferguson",
     "birth_year": 1963,
@@ -27134,6 +27181,12 @@
     "id": "p_chris_gehman",
     "name": "Chris Gehman",
     "path": "data/people/p_chris_gehman.json"
+  },
+  {
+    "id": "p_chris_geletneky",
+    "name": "Chris Geletneky",
+    "birth_year": 1971,
+    "path": "data/people/p_chris_geletneky.json"
   },
   {
     "id": "p_chris_george",
@@ -28622,6 +28675,11 @@
     "path": "data/people/p_chris_thomas.json"
   },
   {
+    "id": "p_chris_thomas_devlin",
+    "name": "Chris Thomas Devlin",
+    "path": "data/people/p_chris_thomas_devlin.json"
+  },
+  {
     "id": "p_chris_thomas_king",
     "name": "Chris Thomas King",
     "birth_year": 1964,
@@ -28815,7 +28873,7 @@
   {
     "id": "p_chris_williams",
     "name": "Chris Williams",
-    "birth_year": 1967,
+    "birth_year": 1968,
     "path": "data/people/p_chris_williams.json"
   },
   {
@@ -30757,7 +30815,7 @@
   {
     "id": "p_christian_paul",
     "name": "Christian Paul",
-    "birth_year": 1973,
+    "birth_year": 1960,
     "path": "data/people/p_christian_paul.json"
   },
   {
@@ -31598,6 +31656,12 @@
     "name": "Christiane Jean",
     "birth_year": 1959,
     "path": "data/people/p_christiane_jean.json"
+  },
+  {
+    "id": "p_christiane_kalss",
+    "name": "Christiane Kalss",
+    "birth_year": 1984,
+    "path": "data/people/p_christiane_kalss.json"
   },
   {
     "id": "p_christiane_kohl",
@@ -33956,6 +34020,12 @@
     "path": "data/people/p_christophe_gans.json"
   },
   {
+    "id": "p_christophe_gavat",
+    "name": "Christophe Gavat",
+    "birth_year": 1965,
+    "path": "data/people/p_christophe_gavat.json"
+  },
+  {
     "id": "p_christophe_girard",
     "name": "Christophe Girard",
     "birth_year": 1956,
@@ -34605,6 +34675,12 @@
     "name": "Christopher Convery",
     "birth_year": 2008,
     "path": "data/people/p_christopher_convery.json"
+  },
+  {
+    "id": "p_christopher_cook",
+    "name": "Christopher Cook",
+    "birth_year": 1961,
+    "path": "data/people/p_christopher_cook.json"
   },
   {
     "id": "p_christopher_coppola",
@@ -36430,6 +36506,11 @@
     "name": "Chubby Jackson",
     "birth_year": 1918,
     "path": "data/people/p_chubby_jackson.json"
+  },
+  {
+    "id": "p_chucen_zhou",
+    "name": "Chucen Zhou",
+    "path": "data/people/p_chucen_zhou.json"
   },
   {
     "id": "p_chucho_e_quintero",
@@ -38655,6 +38736,11 @@
     "name": "Clara Bouffartigue",
     "birth_year": 1975,
     "path": "data/people/p_clara_bouffartigue.json"
+  },
+  {
+    "id": "p_clara_bourreau",
+    "name": "Clara Bourreau",
+    "path": "data/people/p_clara_bourreau.json"
   },
   {
     "id": "p_clara_breteau",
@@ -43493,6 +43579,12 @@
     "path": "data/people/p_cody_cameron.json"
   },
   {
+    "id": "p_cody_carpenter",
+    "name": "Cody Carpenter",
+    "birth_year": 1984,
+    "path": "data/people/p_cody_carpenter.json"
+  },
+  {
     "id": "p_cody_chesnutt",
     "name": "Cody Chesnutt",
     "birth_year": 1967,
@@ -44289,6 +44381,12 @@
     "path": "data/people/p_colin_sander.json"
   },
   {
+    "id": "p_colin_self",
+    "name": "Colin Self",
+    "birth_year": 1987,
+    "path": "data/people/p_colin_self.json"
+  },
+  {
     "id": "p_colin_stetson",
     "name": "Colin Stetson",
     "birth_year": 1975,
@@ -44501,6 +44599,11 @@
     "id": "p_collin_dcunha",
     "name": "Collin D'Cunha",
     "path": "data/people/p_collin_dcunha.json"
+  },
+  {
+    "id": "p_collin_hegna",
+    "name": "Collin Hegna",
+    "path": "data/people/p_collin_hegna.json"
   },
   {
     "id": "p_collin_mcmahon",
@@ -45962,6 +46065,12 @@
     "path": "data/people/p_coraci_ruiz.json"
   },
   {
+    "id": "p_coral_cruz_pacheco",
+    "name": "Coral Cruz Pacheco",
+    "birth_year": 1972,
+    "path": "data/people/p_coral_cruz_pacheco.json"
+  },
+  {
     "id": "p_coral_pena",
     "name": "Coral Peña",
     "birth_year": 1992,
@@ -47154,7 +47263,7 @@
   {
     "id": "p_cosmo_jarvis",
     "name": "Cosmo Jarvis",
-    "birth_year": 1988,
+    "birth_year": 1989,
     "path": "data/people/p_cosmo_jarvis.json"
   },
   {
@@ -48847,7 +48956,7 @@
   {
     "id": "p_cristina_banegas",
     "name": "Cristina Banegas",
-    "birth_year": 1945,
+    "birth_year": 1948,
     "path": "data/people/p_cristina_banegas.json"
   },
   {
@@ -48990,7 +49099,7 @@
   {
     "id": "p_cristina_gallego",
     "name": "Cristina Gallego",
-    "birth_year": 1978,
+    "birth_year": 1977,
     "path": "data/people/p_cristina_gallego.json"
   },
   {
