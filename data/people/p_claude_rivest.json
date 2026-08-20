@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_rivest",
+  "name": "Claude Rivest",
+  "external_ids": {
+    "wikidata": "Q108218999",
+    "imdb": "nm11113287"
+  },
+  "last_updated": "2026-08-20"
+}
