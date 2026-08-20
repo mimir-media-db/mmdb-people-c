@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_dubois",
+  "name": "Claude Dubois",
+  "external_ids": {
+    "wikidata": "Q2977324",
+    "imdb": "nm0239389"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1947
+}
