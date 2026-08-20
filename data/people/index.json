@@ -5127,6 +5127,12 @@
     "path": "data/people/p_carlo_macchitella.json"
   },
   {
+    "id": "p_carlo_maria_cordio",
+    "name": "Carlo Maria Cordio",
+    "birth_year": 1952,
+    "path": "data/people/p_carlo_maria_cordio.json"
+  },
+  {
     "id": "p_carlo_maria_martini",
     "name": "Carlo Maria Martini",
     "birth_year": 1927,
@@ -5577,6 +5583,12 @@
     "id": "p_carlos_bido",
     "name": "Carlos Bidó",
     "path": "data/people/p_carlos_bido.json"
+  },
+  {
+    "id": "p_carlos_blanco_hernandez",
+    "name": "Carlos Blanco Hernández",
+    "birth_year": 1917,
+    "path": "data/people/p_carlos_blanco_hernandez.json"
   },
   {
     "id": "p_carlos_blanco_vila",
@@ -6150,7 +6162,7 @@
   {
     "id": "p_carlos_kaspar",
     "name": "Carlos Kaspar",
-    "birth_year": 1955,
+    "birth_year": 1965,
     "path": "data/people/p_carlos_kaspar.json"
   },
   {
@@ -7405,7 +7417,7 @@
   {
     "id": "p_carmen_de_lirio",
     "name": "Carmen de Lirio",
-    "birth_year": 1923,
+    "birth_year": 1926,
     "path": "data/people/p_carmen_de_lirio.json"
   },
   {
@@ -10473,7 +10485,7 @@
   {
     "id": "p_casey_silver",
     "name": "Casey Silver",
-    "birth_year": 1945,
+    "birth_year": 1955,
     "path": "data/people/p_casey_silver.json"
   },
   {
@@ -14952,6 +14964,11 @@
     "path": "data/people/p_cesare_ferrario.json"
   },
   {
+    "id": "p_cesare_frugoni",
+    "name": "Cesare Frugoni",
+    "path": "data/people/p_cesare_frugoni.json"
+  },
+  {
     "id": "p_cesare_furesi",
     "name": "Cesare Furesi",
     "birth_year": 1956,
@@ -15948,6 +15965,12 @@
     "path": "data/people/p_chaim_feroleto.json"
   },
   {
+    "id": "p_chaim_idisis",
+    "name": "Chaim Idisis",
+    "birth_year": 1959,
+    "path": "data/people/p_chaim_idisis.json"
+  },
+  {
     "id": "p_chaim_merin",
     "name": "Chaim Merin",
     "birth_year": 1948,
@@ -16566,6 +16589,12 @@
     "path": "data/people/p_chandran_rutnam.json"
   },
   {
+    "id": "p_chandran_veyattummal",
+    "name": "Chandran Veyattummal",
+    "birth_year": 1955,
+    "path": "data/people/p_chandran_veyattummal.json"
+  },
+  {
     "id": "p_chandraprakash_dwivedi",
     "name": "Chandraprakash Dwivedi",
     "birth_year": 1959,
@@ -16971,7 +17000,7 @@
   {
     "id": "p_chantal_contouri",
     "name": "Chantal Contouri",
-    "birth_year": 1948,
+    "birth_year": 1950,
     "path": "data/people/p_chantal_contouri.json"
   },
   {
@@ -17842,6 +17871,12 @@
     "id": "p_charles_francis_kinnane",
     "name": "Charles Francis Kinnane",
     "path": "data/people/p_charles_francis_kinnane.json"
+  },
+  {
+    "id": "p_charles_frazier",
+    "name": "Charles Frazier",
+    "birth_year": 1950,
+    "path": "data/people/p_charles_frazier.json"
   },
   {
     "id": "p_charles_fricks",
@@ -18875,6 +18910,12 @@
     "name": "Charlie Clements",
     "birth_year": 1987,
     "path": "data/people/p_charlie_clements.json"
+  },
+  {
+    "id": "p_charlie_clouser",
+    "name": "Charlie Clouser",
+    "birth_year": 1963,
+    "path": "data/people/p_charlie_clouser.json"
   },
   {
     "id": "p_charlie_condou",
@@ -20497,6 +20538,12 @@
     "path": "data/people/p_chavela_vargas.json"
   },
   {
+    "id": "p_chavit_singson",
+    "name": "Chavit Singson",
+    "birth_year": 1941,
+    "path": "data/people/p_chavit_singson.json"
+  },
+  {
     "id": "p_chavo_guerrero_jr",
     "name": "Chavo Guerrero Jr.",
     "birth_year": 1970,
@@ -20701,6 +20748,12 @@
     "name": "Cheick Kongo",
     "birth_year": 1975,
     "path": "data/people/p_cheick_kongo.json"
+  },
+  {
+    "id": "p_cheick_tidiane_seck",
+    "name": "Cheick Tidiane Seck",
+    "birth_year": 1953,
+    "path": "data/people/p_cheick_tidiane_seck.json"
   },
   {
     "id": "p_cheik_doukoure",
@@ -21304,7 +21357,7 @@
   {
     "id": "p_chen_mingchang",
     "name": "Chen Ming-chang",
-    "birth_year": 1973,
+    "birth_year": 1956,
     "path": "data/people/p_chen_mingchang.json"
   },
   {
@@ -25616,7 +25669,7 @@
   {
     "id": "p_chris_collins",
     "name": "Chris Collins",
-    "birth_year": 1962,
+    "birth_year": 1967,
     "path": "data/people/p_chris_collins.json"
   },
   {
@@ -25636,6 +25689,12 @@
     "name": "Chris Conlee",
     "birth_year": 1967,
     "path": "data/people/p_chris_conlee.json"
+  },
+  {
+    "id": "p_chris_cooke",
+    "name": "Chris Cooke",
+    "birth_year": 1986,
+    "path": "data/people/p_chris_cooke.json"
   },
   {
     "id": "p_chris_cooper",
@@ -25873,6 +25932,12 @@
     "name": "Chris Evert",
     "birth_year": 1954,
     "path": "data/people/p_chris_evert.json"
+  },
+  {
+    "id": "p_chris_ewan",
+    "name": "Chris Ewan",
+    "birth_year": 1976,
+    "path": "data/people/p_chris_ewan.json"
   },
   {
     "id": "p_chris_eyre",
@@ -26354,6 +26419,12 @@
     "path": "data/people/p_chris_landreth.json"
   },
   {
+    "id": "p_chris_lang",
+    "name": "Chris Lang",
+    "birth_year": 1960,
+    "path": "data/people/p_chris_lang.json"
+  },
+  {
     "id": "p_chris_langham",
     "name": "Chris Langham",
     "birth_year": 1949,
@@ -26581,6 +26652,12 @@
     "name": "Chris Meyer",
     "birth_year": 1975,
     "path": "data/people/p_chris_meyer.json"
+  },
+  {
+    "id": "p_chris_michie",
+    "name": "Chris Michie",
+    "birth_year": 1948,
+    "path": "data/people/p_chris_michie.json"
   },
   {
     "id": "p_chris_miera",
@@ -27373,7 +27450,7 @@
   {
     "id": "p_chris_thomas_king",
     "name": "Chris Thomas King",
-    "birth_year": 1962,
+    "birth_year": 1964,
     "path": "data/people/p_chris_thomas_king.json"
   },
   {
@@ -28326,6 +28403,12 @@
     "path": "data/people/p_christian_concilio.json"
   },
   {
+    "id": "p_christian_conrad",
+    "name": "Christian Conrad",
+    "birth_year": 1971,
+    "path": "data/people/p_christian_conrad.json"
+  },
+  {
     "id": "p_christian_convery",
     "name": "Christian Convery",
     "birth_year": 2009,
@@ -28376,6 +28459,12 @@
     "name": "Christian de la Cortina",
     "birth_year": 1979,
     "path": "data/people/p_christian_de_la_cortina.json"
+  },
+  {
+    "id": "p_christian_de_montella",
+    "name": "Christian de Montella",
+    "birth_year": 1956,
+    "path": "data/people/p_christian_de_montella.json"
   },
   {
     "id": "p_christian_de_rezendes",
@@ -29349,7 +29438,7 @@
   {
     "id": "p_christian_paul",
     "name": "Christian Paul",
-    "birth_year": 1960,
+    "birth_year": 1973,
     "path": "data/people/p_christian_paul.json"
   },
   {
@@ -34119,7 +34208,7 @@
   {
     "id": "p_christopher_simpson",
     "name": "Christopher Simpson",
-    "birth_year": 1975,
+    "birth_year": 1974,
     "path": "data/people/p_christopher_simpson.json"
   },
   {
@@ -34205,6 +34294,12 @@
     "id": "p_christopher_tuffin",
     "name": "Christopher Tuffin",
     "path": "data/people/p_christopher_tuffin.json"
+  },
+  {
+    "id": "p_christopher_tyng",
+    "name": "Christopher Tyng",
+    "birth_year": 1968,
+    "path": "data/people/p_christopher_tyng.json"
   },
   {
     "id": "p_christopher_villiers",
@@ -35636,7 +35731,7 @@
   {
     "id": "p_cindy_crawford",
     "name": "Cindy Crawford",
-    "birth_year": 1966,
+    "birth_year": 1980,
     "path": "data/people/p_cindy_crawford.json"
   },
   {
@@ -36614,7 +36709,7 @@
   {
     "id": "p_claire_rushbrook",
     "name": "Claire Rushbrook",
-    "birth_year": 1970,
+    "birth_year": 1971,
     "path": "data/people/p_claire_rushbrook.json"
   },
   {
@@ -37174,7 +37269,7 @@
   {
     "id": "p_clare_kilner",
     "name": "Clare Kilner",
-    "birth_year": 1950,
+    "birth_year": 1949,
     "path": "data/people/p_clare_kilner.json"
   },
   {
@@ -39534,6 +39629,12 @@
     "name": "Claus Boje",
     "birth_year": 1958,
     "path": "data/people/p_claus_boje.json"
+  },
+  {
+    "id": "p_claus_cornelius_fischer",
+    "name": "Claus Cornelius Fischer",
+    "birth_year": 1951,
+    "path": "data/people/p_claus_cornelius_fischer.json"
   },
   {
     "id": "p_claus_damgaard",
@@ -42668,6 +42769,12 @@
     "path": "data/people/p_cong_shan.json"
   },
   {
+    "id": "p_cong_su",
+    "name": "Cong Su",
+    "birth_year": 1956,
+    "path": "data/people/p_cong_su.json"
+  },
+  {
     "id": "p_cong_tugjom",
     "name": "Čong Tu-gjom",
     "birth_year": 1955,
@@ -42916,6 +43023,12 @@
     "name": "Conny Andersson",
     "birth_year": 1974,
     "path": "data/people/p_conny_andersson.json"
+  },
+  {
+    "id": "p_conny_bloom",
+    "name": "Conny Bloom",
+    "birth_year": 1964,
+    "path": "data/people/p_conny_bloom.json"
   },
   {
     "id": "p_conny_dachs",
@@ -45690,6 +45803,12 @@
     "path": "data/people/p_craig_stevenson.json"
   },
   {
+    "id": "p_craig_storper",
+    "name": "Craig Storper",
+    "birth_year": 1951,
+    "path": "data/people/p_craig_storper.json"
+  },
+  {
     "id": "p_craig_stott",
     "name": "Craig Stott",
     "birth_year": 1990,
@@ -46158,6 +46277,12 @@
     "name": "Cristián Harbaruk",
     "birth_year": 1973,
     "path": "data/people/p_cristian_harbaruk.json"
+  },
+  {
+    "id": "p_cristian_heyne",
+    "name": "Cristian Heyne",
+    "birth_year": 1973,
+    "path": "data/people/p_cristian_heyne.json"
   },
   {
     "id": "p_cristian_iacob",
@@ -47438,6 +47563,12 @@
     "path": "data/people/p_curt_skov.json"
   },
   {
+    "id": "p_curt_sobel",
+    "name": "Curt Sobel",
+    "birth_year": 1953,
+    "path": "data/people/p_curt_sobel.json"
+  },
+  {
     "id": "p_curt_truninger",
     "name": "Curt Truninger",
     "birth_year": 1957,
@@ -47654,6 +47785,12 @@
     "name": "Cut Yanthi",
     "birth_year": 1963,
     "path": "data/people/p_cut_yanthi.json"
+  },
+  {
+    "id": "p_cuti_aste",
+    "name": "Cuti Aste",
+    "birth_year": 1965,
+    "path": "data/people/p_cuti_aste.json"
   },
   {
     "id": "p_cuti_carabajal",
