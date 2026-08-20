@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_carl_foreman",
+  "name": "Carl Foreman",
+  "external_ids": {
+    "wikidata": "Q1037848",
+    "imdb": "nm0286025"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1914,
+  "death_year": 1984
+}
