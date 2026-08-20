@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "id": "p_claude_milot",
+  "name": "Claude Milot",
+  "external_ids": {
+    "wikidata": "Q95849026"
+  },
+  "last_updated": "2026-08-20"
+}

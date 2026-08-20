@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_count_basie",
+  "name": "Count Basie",
+  "external_ids": {
+    "wikidata": "Q107008",
+    "imdb": "nm0059831"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1904,
+  "death_year": 1984
+}
