@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_charles_ives",
+  "name": "Charles Ives",
+  "external_ids": {
+    "wikidata": "Q309648",
+    "imdb": "nm0412323"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1874,
+  "death_year": 1954
+}
