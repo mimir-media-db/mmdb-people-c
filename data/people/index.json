@@ -698,6 +698,12 @@
     "path": "data/people/p_caitlin_mchugh.json"
   },
   {
+    "id": "p_caitlin_moran",
+    "name": "Caitlin Moran",
+    "birth_year": 1975,
+    "path": "data/people/p_caitlin_moran.json"
+  },
+  {
     "id": "p_caitlin_north_lewis",
     "name": "Caitlin North Lewis",
     "birth_year": 2002,
@@ -1203,6 +1209,12 @@
     "name": "Calmatic",
     "birth_year": 1987,
     "path": "data/people/p_calmatic.json"
+  },
+  {
+    "id": "p_calogero",
+    "name": "Calogero",
+    "birth_year": 1971,
+    "path": "data/people/p_calogero.json"
   },
   {
     "id": "p_calpernia_addams",
@@ -2219,6 +2231,11 @@
     "name": "Camille Bonora",
     "birth_year": 1956,
     "path": "data/people/p_camille_bonora.json"
+  },
+  {
+    "id": "p_camille_bourdeau",
+    "name": "Camille Bourdeau",
+    "path": "data/people/p_camille_bourdeau.json"
   },
   {
     "id": "p_camille_chamoux",
@@ -3605,6 +3622,12 @@
     "path": "data/people/p_carey_scott.json"
   },
   {
+    "id": "p_carey_wayne_van_dyke",
+    "name": "Carey Wayne Van Dyke",
+    "birth_year": 1976,
+    "path": "data/people/p_carey_wayne_van_dyke.json"
+  },
+  {
     "id": "p_carey_williams",
     "name": "Carey Williams",
     "path": "data/people/p_carey_williams.json"
@@ -4131,7 +4154,7 @@
   {
     "id": "p_carl_lumbly",
     "name": "Carl Lumbly",
-    "birth_year": 1950,
+    "birth_year": 1951,
     "path": "data/people/p_carl_lumbly.json"
   },
   {
@@ -4642,6 +4665,11 @@
     "path": "data/people/p_carla_ortiz.json"
   },
   {
+    "id": "p_carla_pallone",
+    "name": "Carla Pallone",
+    "path": "data/people/p_carla_pallone.json"
+  },
+  {
     "id": "p_carla_pandolfi",
     "name": "Carla Pandolfi",
     "birth_year": 1982,
@@ -4704,7 +4732,7 @@
   {
     "id": "p_carla_signoris",
     "name": "Carla Signoris",
-    "birth_year": 1960,
+    "birth_year": 1958,
     "path": "data/people/p_carla_signoris.json"
   },
   {
@@ -7947,7 +7975,7 @@
   {
     "id": "p_carmen_moore",
     "name": "Carmen Moore",
-    "birth_year": 1971,
+    "birth_year": 1972,
     "path": "data/people/p_carmen_moore.json"
   },
   {
@@ -8380,7 +8408,7 @@
   {
     "id": "p_carol_duarte",
     "name": "Carol Duarte",
-    "birth_year": 1991,
+    "birth_year": 1992,
     "path": "data/people/p_carol_duarte.json"
   },
   {
@@ -12390,6 +12418,12 @@
     "path": "data/people/p_catherine_lough_haggquist.json"
   },
   {
+    "id": "p_catherine_major",
+    "name": "Catherine Major",
+    "birth_year": 1979,
+    "path": "data/people/p_catherine_major.json"
+  },
+  {
     "id": "p_catherine_marchal",
     "name": "Catherine Marchal",
     "birth_year": 1967,
@@ -12727,7 +12761,7 @@
   {
     "id": "p_catherine_viau",
     "name": "Catherine Viau",
-    "birth_year": 1959,
+    "birth_year": 1960,
     "path": "data/people/p_catherine_viau.json"
   },
   {
@@ -17891,7 +17925,7 @@
   {
     "id": "p_charan_raj",
     "name": "Charan Raj",
-    "birth_year": 1985,
+    "birth_year": 1958,
     "path": "data/people/p_charan_raj.json"
   },
   {
@@ -19796,6 +19830,11 @@
     "name": "Charlie Hunnam",
     "birth_year": 1980,
     "path": "data/people/p_charlie_hunnam.json"
+  },
+  {
+    "id": "p_charlie_jefferson",
+    "name": "Charlie Jefferson",
+    "path": "data/people/p_charlie_jefferson.json"
   },
   {
     "id": "p_charlie_jordan",
@@ -25874,7 +25913,6 @@
   {
     "id": "p_choi_sungeun",
     "name": "Choi Sung-eun",
-    "birth_year": 1996,
     "path": "data/people/p_choi_sungeun.json"
   },
   {
@@ -26587,7 +26625,7 @@
   {
     "id": "p_chris_clark",
     "name": "Chris Clark",
-    "birth_year": 1985,
+    "birth_year": 1979,
     "path": "data/people/p_chris_clark.json"
   },
   {
@@ -26617,7 +26655,7 @@
   {
     "id": "p_chris_collins",
     "name": "Chris Collins",
-    "birth_year": 1967,
+    "birth_year": 1900,
     "path": "data/people/p_chris_collins.json"
   },
   {
@@ -27017,6 +27055,12 @@
     "id": "p_chris_george",
     "name": "Chris George",
     "path": "data/people/p_chris_george.json"
+  },
+  {
+    "id": "p_chris_gerolmo",
+    "name": "Chris Gerolmo",
+    "birth_year": 1952,
+    "path": "data/people/p_chris_gerolmo.json"
   },
   {
     "id": "p_chris_gethard",
@@ -27829,6 +27873,11 @@
     "name": "Chris Nyst",
     "birth_year": 1953,
     "path": "data/people/p_chris_nyst.json"
+  },
+  {
+    "id": "p_chris_nzekwe",
+    "name": "Chris Nzekwe",
+    "path": "data/people/p_chris_nzekwe.json"
   },
   {
     "id": "p_chris_odonnell",
@@ -30505,6 +30554,12 @@
     "path": "data/people/p_christian_moris_muller.json"
   },
   {
+    "id": "p_christian_moullec",
+    "name": "Christian Moullec",
+    "birth_year": 1960,
+    "path": "data/people/p_christian_moullec.json"
+  },
+  {
     "id": "p_christian_mrasek",
     "name": "Christian Mrasek",
     "birth_year": 1969,
@@ -32927,6 +32982,12 @@
     "path": "data/people/p_christoffer_dreyer.json"
   },
   {
+    "id": "p_christoffer_franzen",
+    "name": "Christoffer Franzén",
+    "birth_year": 1988,
+    "path": "data/people/p_christoffer_franzen.json"
+  },
+  {
     "id": "p_christoffer_guldbrandsen",
     "name": "Christoffer Guldbrandsen",
     "birth_year": 1971,
@@ -33214,6 +33275,12 @@
     "path": "data/people/p_christoph_humnig.json"
   },
   {
+    "id": "p_christoph_israel",
+    "name": "Christoph Israel",
+    "birth_year": 1963,
+    "path": "data/people/p_christoph_israel.json"
+  },
+  {
     "id": "p_christoph_jacobi",
     "name": "Christoph Jacobi",
     "birth_year": 1970,
@@ -33373,7 +33440,7 @@
   {
     "id": "p_christoph_schauer",
     "name": "Christoph Schauer",
-    "birth_year": 1968,
+    "birth_year": 1972,
     "path": "data/people/p_christoph_schauer.json"
   },
   {
@@ -33842,6 +33909,11 @@
     "path": "data/people/p_christophe_la_pinta.json"
   },
   {
+    "id": "p_christophe_lamarcheledoux",
+    "name": "Christophe Lamarche-Ledoux",
+    "path": "data/people/p_christophe_lamarcheledoux.json"
+  },
+  {
     "id": "p_christophe_lambert",
     "name": "Christophe Lambert",
     "birth_year": 1964,
@@ -34213,6 +34285,12 @@
     "id": "p_christopher_bennett",
     "name": "Christopher Bennett",
     "path": "data/people/p_christopher_bennett.json"
+  },
+  {
+    "id": "p_christopher_benstead",
+    "name": "Christopher Benstead",
+    "birth_year": 1981,
+    "path": "data/people/p_christopher_benstead.json"
   },
   {
     "id": "p_christopher_berkeley",
@@ -35309,6 +35387,11 @@
     "name": "Christopher Patte",
     "birth_year": 1990,
     "path": "data/people/p_christopher_patte.json"
+  },
+  {
+    "id": "p_christopher_paultre",
+    "name": "Christopher Paultre",
+    "path": "data/people/p_christopher_paultre.json"
   },
   {
     "id": "p_christopher_payne",
@@ -37839,6 +37922,12 @@
     "path": "data/people/p_claire_armstrong.json"
   },
   {
+    "id": "p_claire_barre",
+    "name": "Claire Barré",
+    "birth_year": 1974,
+    "path": "data/people/p_claire_barre.json"
+  },
+  {
     "id": "p_claire_bender",
     "name": "Claire Bender",
     "birth_year": 1994,
@@ -37925,6 +38014,11 @@
     "name": "Claire Coffee",
     "birth_year": 1980,
     "path": "data/people/p_claire_coffee.json"
+  },
+  {
+    "id": "p_claire_courchene",
+    "name": "Claire Courchene",
+    "path": "data/people/p_claire_courchene.json"
   },
   {
     "id": "p_claire_cox",
@@ -38563,6 +38657,12 @@
     "name": "Clara Luciani",
     "birth_year": 1992,
     "path": "data/people/p_clara_luciani.json"
+  },
+  {
+    "id": "p_clara_luzia",
+    "name": "Clara Luzia",
+    "birth_year": 1977,
+    "path": "data/people/p_clara_luzia.json"
   },
   {
     "id": "p_clara_lykke_louw",
@@ -39645,6 +39745,11 @@
     "path": "data/people/p_claude_rich.json"
   },
   {
+    "id": "p_claude_rivest",
+    "name": "Claude Rivest",
+    "path": "data/people/p_claude_rivest.json"
+  },
+  {
     "id": "p_claude_sarraute",
     "name": "Claude Sarraute",
     "birth_year": 1927,
@@ -40539,6 +40644,11 @@
     "path": "data/people/p_claudia_trieste.json"
   },
   {
+    "id": "p_claudia_uzzo",
+    "name": "Claudia Uzzo",
+    "path": "data/people/p_claudia_uzzo.json"
+  },
+  {
     "id": "p_claudia_varejao",
     "name": "Cláudia Varejão",
     "birth_year": 1979,
@@ -40855,6 +40965,12 @@
     "name": "Claudio Colica",
     "birth_year": 1988,
     "path": "data/people/p_claudio_colica.json"
+  },
+  {
+    "id": "p_claudio_corbucci",
+    "name": "Claudio Corbucci",
+    "birth_year": 1967,
+    "path": "data/people/p_claudio_corbucci.json"
   },
   {
     "id": "p_claudio_costa",
@@ -41907,6 +42023,12 @@
     "name": "Clemens Meyer",
     "birth_year": 1977,
     "path": "data/people/p_clemens_meyer.json"
+  },
+  {
+    "id": "p_clemens_potzsch",
+    "name": "Clemens Pötzsch",
+    "birth_year": 1984,
+    "path": "data/people/p_clemens_potzsch.json"
   },
   {
     "id": "p_clemens_rehbein",
@@ -45373,6 +45495,11 @@
     "path": "data/people/p_constantino_romero.json"
   },
   {
+    "id": "p_constanza_araya_miranda",
+    "name": "Constanza Araya Miranda",
+    "path": "data/people/p_constanza_araya_miranda.json"
+  },
+  {
     "id": "p_constanza_camelo",
     "name": "Constanza Camelo",
     "birth_year": 1977,
@@ -45682,6 +45809,12 @@
     "name": "Coralie Gerard",
     "birth_year": 1995,
     "path": "data/people/p_coralie_gerard.json"
+  },
+  {
+    "id": "p_coralie_miller",
+    "name": "Coralie Miller",
+    "birth_year": 1981,
+    "path": "data/people/p_coralie_miller.json"
   },
   {
     "id": "p_coralie_revel",
@@ -46214,6 +46347,12 @@
     "name": "Cornel Schäfer",
     "birth_year": 1982,
     "path": "data/people/p_cornel_schafer.json"
+  },
+  {
+    "id": "p_cornel_taranu",
+    "name": "Cornel Țăranu",
+    "birth_year": 1934,
+    "path": "data/people/p_cornel_taranu.json"
   },
   {
     "id": "p_cornel_west",
@@ -46834,7 +46973,7 @@
   {
     "id": "p_cosmo_jarvis",
     "name": "Cosmo Jarvis",
-    "birth_year": 1989,
+    "birth_year": 1988,
     "path": "data/people/p_cosmo_jarvis.json"
   },
   {
@@ -49098,7 +49237,7 @@
   {
     "id": "p_crystal_lee",
     "name": "Crystal Lee",
-    "birth_year": 2003,
+    "birth_year": 1990,
     "path": "data/people/p_crystal_lee.json"
   },
   {
