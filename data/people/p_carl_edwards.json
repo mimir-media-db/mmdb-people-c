@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_carl_edwards",
+  "name": "Carl Edwards",
+  "external_ids": {
+    "wikidata": "Q704008",
+    "imdb": "nm1907731"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1979
+}

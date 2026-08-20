@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_clara_schumann",
+  "name": "Clara Schumann",
+  "external_ids": {
+    "wikidata": "Q132232",
+    "imdb": "nm1179174"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1819,
+  "death_year": 1896
+}
